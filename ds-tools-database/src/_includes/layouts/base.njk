@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title | default("DS Tools Database") }}</title>
+  <meta name="description" content="{{ description | default('A searchable repository of 277+ digital scholarship tools for research, visualization, mapping, and more.') }}">
+
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- Theme color for mobile browsers -->
+  <meta name="theme-color" content="#1a1814">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">
+        <span>DS</span> <span>Tools</span> <span>Database</span>
+      </h1>
+      <p class="site-subtitle">A curated collection of <strong>{{ tools.tools | length }}+</strong> digital scholarship tools for research, visualization, and discovery</p>
+    </div>
+    <div class="header-decoration" aria-hidden="true">DS</div>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+      {{ content | safe }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Last Updated — March 2026</p>
+    </div>
+  </footer>
+
+  <script src="/assets/js/fuse.min.js"></script>
+  <script src="/assets/js/search.js"></script>
+</body>
+</html>

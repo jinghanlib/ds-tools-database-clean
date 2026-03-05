@@ -1,0 +1,100 @@
+---
+layout: layouts/base.njk
+title: DS Tools Database — Digital Scholarship Tools Repository
+---
+
+<section class="search-section">
+  <div class="search-container">
+    <input
+      type="text"
+      id="search-input"
+      class="search-input"
+      placeholder="Search tools by name, description, or category..."
+      aria-label="Search tools"
+    >
+    <span class="search-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+    </span>
+  </div>
+</section>
+
+<section class="filters-section">
+  <div class="filters-header">
+    <h2 class="filters-title">Browse by Category</h2>
+    <button id="clear-filters" class="clear-filters-btn" style="display: none;">Clear All</button>
+  </div>
+  <div class="filter-buttons" id="filter-buttons">
+    <button class="filter-btn active" data-category="all"><span>All ({{ tools.tools | length }})</span></button>
+    {% for category in tools.categories %}
+    <button class="filter-btn" data-category="{{ category }}"><span>{{ category }}</span></button>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="results-section">
+  <p class="results-count" id="results-count">Showing {{ tools.tools | length }} tools</p>
+</section>
+
+<section class="tools-grid" id="tools-grid">
+  {% for tool in tools.tools %}
+  <article class="tool-card" data-categories="{{ tool.categories | join(',') }}" data-name="{{ tool.name }}" data-description="{{ tool.description }}">
+    <div class="tool-image-container">
+      {% if tool.image %}
+      <img
+        src="{{ tool.image }}"
+        alt="{{ tool.name }} screenshot"
+        class="tool-image"
+        loading="lazy"
+        onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+      >
+      <div class="tool-image-placeholder" style="display: none;">
+        <span>{{ tool.name | truncate(1, true, "") }}</span>
+      </div>
+      {% else %}
+      <div class="tool-image-placeholder">
+        <span>{{ tool.name | truncate(1, true, "") }}</span>
+      </div>
+      {% endif %}
+    </div>
+    <div class="tool-content">
+      <h3 class="tool-name">
+        {% if tool.url %}
+        <a href="{{ tool.url }}" target="_blank" rel="noopener noreferrer">
+          {{ tool.name }}
+          <svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M7 17L17 7"></path>
+            <path d="M7 7h10v10"></path>
+          </svg>
+        </a>
+        {% else %}
+        {{ tool.name }}
+        {% endif %}
+      </h3>
+      {% if tool.description %}
+      <p class="tool-description">{{ tool.description }}</p>
+      {% endif %}
+      <div class="tool-categories">
+        {% for category in tool.categories %}
+        <span class="category-tag">{{ category }}</span>
+        {% endfor %}
+      </div>
+    </div>
+  </article>
+  {% endfor %}
+</section>
+
+<div id="no-results" class="no-results" style="display: none;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="11" cy="11" r="8"></circle>
+    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+  </svg>
+  <h3>No tools found</h3>
+  <p>Try adjusting your search or filter criteria</p>
+</div>
+
+<script id="tools-data" type="application/json">
+{{ tools.tools | dump | safe }}
+</script>

@@ -1,0 +1,3283 @@
+{
+  "tools": [
+    {
+      "id": 1,
+      "name": "Data.gov",
+      "slug": "datagov",
+      "url": "https://www.data.gov",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/datagov.png",
+      "updated": "5/19/2024 11:42am"
+    },
+    {
+      "id": 2,
+      "name": "DataBank",
+      "slug": "databank",
+      "url": "https://databank.worldbank.org/home.aspx",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/databank.png",
+      "updated": "5/19/2024 11:44am"
+    },
+    {
+      "id": 3,
+      "name": "NYC Open Data",
+      "slug": "nyc-open-data",
+      "url": "https://opendata.cityofnewyork.us/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/nyc-open-data.png",
+      "updated": "5/19/2024 11:42am"
+    },
+    {
+      "id": 4,
+      "name": "StreetEasy Housing Data",
+      "slug": "streeteasy-housing-data",
+      "url": "https://streeteasy.com/blog/data-dashboard/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/streeteasy-housing-data.png",
+      "updated": "5/19/2024 11:42am"
+    },
+    {
+      "id": 5,
+      "name": "AWS Data Exchange",
+      "slug": "aws-data-exchange",
+      "url": "https://aws.amazon.com/marketplace/search/results?trk=8384929b-0eb1-4af3-8996-07aa409646bc&sc_channel=el&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&CONTRACT_TYPE=OPEN_DATA_LICENSES&filters=FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/aws-data-exchange.png",
+      "updated": "5/19/2024 11:42am"
+    },
+    {
+      "id": 6,
+      "name": "Chicago Data Portal",
+      "slug": "chicago-data-portal",
+      "url": "https://data.cityofchicago.org/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/chicago-data-portal.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 7,
+      "name": "Information is Beautiful Listings",
+      "slug": "information-is-beautiful-listings",
+      "url": "https://informationisbeautiful.net/data/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/information-is-beautiful-listings.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 8,
+      "name": "TidyTuesday GitHub Repository",
+      "slug": "tidytuesday-github-repository",
+      "url": "https://github.com/rfordatascience/tidytuesday/blob/master/README.md",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "TidyTuesday is a weekly social data project",
+      "image": "/assets/images/tidytuesday-github-repository.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 9,
+      "name": "Data is Plural Structured Archive",
+      "slug": "data-is-plural-structured-archive",
+      "url": "https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/data-is-plural-structured-archive.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 10,
+      "name": "Vega Datasets",
+      "slug": "vega-datasets",
+      "url": "https://github.com/vega/vega-datasets",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "Common repository for example datasets used by Vega-related projects",
+      "image": "/assets/images/vega-datasets.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 11,
+      "name": "Awesome Public Datasets",
+      "slug": "awesome-public-datasets",
+      "url": "https://github.com/awesomedata/awesome-public-datasets",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "A topic-centric list of HQ open datasets",
+      "image": "/assets/images/awesome-public-datasets.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 12,
+      "name": "Open Data Stack Exchange",
+      "slug": "open-data-stack-exchange",
+      "url": "https://opendata.stackexchange.com/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/open-data-stack-exchange.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 13,
+      "name": "Investigative Reporters and Editors Data Resources",
+      "slug": "investigative-reporters-and-editors-data-resources",
+      "url": "https://www.ire.org/?s=&type%5B%5D=Data",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/investigative-reporters-and-editors-data-resources.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 14,
+      "name": "Buzzfeed News Data GitHub Repository",
+      "slug": "buzzfeed-news-data-github-repository",
+      "url": "https://github.com/BuzzFeedNews/everything/blob/master/README.md",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "An index of all Buzzfeed News open-source data, analysis, libraries, tools, and guides",
+      "image": "/assets/images/buzzfeed-news-data-github-repository.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 15,
+      "name": "LA Data Desk GitHub Repository",
+      "slug": "la-data-desk-github-repository",
+      "url": "https://github.com/datadesk/notebooks",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "All of LA Times computational notebooks",
+      "image": "/assets/images/la-data-desk-github-repository.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 16,
+      "name": "FiveThirtyEight Data GitHub Repository",
+      "slug": "fivethirtyeight-data-github-repository",
+      "url": "https://github.com/fivethirtyeight/data",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "Data and code behind the articles and graphics at FiveThirtyEight",
+      "image": "/assets/images/fivethirtyeight-data-github-repository.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 17,
+      "name": "The Pudding Data GitHub Repository",
+      "slug": "the-pudding-data-github-repository",
+      "url": "https://github.com/the-pudding/data",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "Data sets created for stories on The Pudding, open to the public.",
+      "image": "/assets/images/the-pudding-data-github-repository.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 18,
+      "name": "Data Portals",
+      "slug": "data-portals",
+      "url": "https://dataportals.org/search",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/data-portals.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 19,
+      "name": "Data DOT World",
+      "slug": "data-dot-world",
+      "url": "https://data.world/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/data-dot-world.png",
+      "updated": "5/19/2024 11:43am"
+    },
+    {
+      "id": 20,
+      "name": "Google Dataset Search",
+      "slug": "google-dataset-search",
+      "url": "https://toolbox.google.com/datasetsearch",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/google-dataset-search.png",
+      "updated": "5/19/2024 11:44am"
+    },
+    {
+      "id": 21,
+      "name": "Enigma Public",
+      "slug": "enigma-public",
+      "url": "https://public.enigma.com/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "Accurate data on private businesses",
+      "image": "/assets/images/enigma-public.png",
+      "updated": "5/19/2024 11:44am"
+    },
+    {
+      "id": 22,
+      "name": "Kaggle Datasets",
+      "slug": "kaggle-datasets",
+      "url": "https://www.kaggle.com/datasets",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/kaggle-datasets.png",
+      "updated": "5/19/2024 11:44am"
+    },
+    {
+      "id": 23,
+      "name": "IPUMS Census & Survey Data",
+      "slug": "ipums-census--survey-data",
+      "url": "https://www.ipums.org/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "IPUMS provides census and survey data from around the world integrated across time and space",
+      "image": "/assets/images/ipums-census--survey-data.png",
+      "updated": "5/19/2024 11:44am"
+    },
+    {
+      "id": 24,
+      "name": "History Pin",
+      "slug": "history-pin",
+      "url": "https://www.historypin.org/en/",
+      "categories": [
+        "Mapping Tools",
+        "Storytelling Tools"
+      ],
+      "description": "Historypin is a place for people to share photos and stories",
+      "image": "/assets/images/history-pin.png",
+      "updated": "3/12/2025 9:11am"
+    },
+    {
+      "id": 25,
+      "name": "Leaflet JS",
+      "slug": "leaflet-js",
+      "url": "https://leafletjs.com/",
+      "categories": [
+        "Mapping Tools"
+      ],
+      "description": "Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps",
+      "image": "/assets/images/leaflet-js.png",
+      "updated": "5/14/2024 1:25pm"
+    },
+    {
+      "id": 26,
+      "name": "StoryMap KnightLab",
+      "slug": "storymap-knightlab",
+      "url": "https://storymap.knightlab.com/",
+      "categories": [
+        "Mapping Tools"
+      ],
+      "description": "StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events",
+      "image": "/assets/images/storymap-knightlab.png",
+      "updated": "5/14/2024 1:25pm"
+    },
+    {
+      "id": 27,
+      "name": "Esri Services",
+      "slug": "esri-services",
+      "url": "https://www.esri.com/en-us/home",
+      "categories": [
+        "Mapping Tools"
+      ],
+      "description": "Esri is the global market leader in geographic information system (GIS) software, location intelligence, and mapping",
+      "image": "/assets/images/esri-services.png",
+      "updated": "5/14/2024 1:25pm"
+    },
+    {
+      "id": 28,
+      "name": "Neatline",
+      "slug": "neatline",
+      "url": "https://www.neatline.org/showcase/",
+      "categories": [
+        "Mapping Tools"
+      ],
+      "description": "Neatline is what you get when you cross archives and artifacts with timelines, modern and historical maps, and an appreciation for the interpretive aims of humanities scholarship",
+      "image": "/assets/images/neatline.png",
+      "updated": "5/14/2024 1:25pm"
+    },
+    {
+      "id": 29,
+      "name": "Carto",
+      "slug": "carto",
+      "url": "https://carto.com/",
+      "categories": [
+        "Mapping Tools"
+      ],
+      "description": "Modern spatial analytics\n‍built for the cloud.\nAnalyze, visualize, and develop with spatial data at limitless scale",
+      "image": "/assets/images/carto.png",
+      "updated": "5/14/2024 1:25pm"
+    },
+    {
+      "id": 30,
+      "name": "PamPam",
+      "slug": "pampam",
+      "url": "https://www.pampam.city/",
+      "categories": [
+        "Mapping Tools"
+      ],
+      "description": "Makes community guides",
+      "image": "/assets/images/pampam.png",
+      "updated": "5/14/2024 1:25pm"
+    },
+    {
+      "id": 31,
+      "name": "Kepler.gl",
+      "slug": "keplergl",
+      "url": "https://kepler.gl/",
+      "categories": [
+        "Mapping Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets",
+      "image": "/assets/images/keplergl.png",
+      "updated": "5/19/2024 11:36am"
+    },
+    {
+      "id": 32,
+      "name": "Igraph",
+      "slug": "igraph",
+      "url": "https://igraph.org/",
+      "categories": [
+        "Network Analysis Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. It’s open source and can be programmed in R, Python, Mathematica, and C/C++",
+      "image": "/assets/images/igraph.png",
+      "updated": "5/19/2024 11:36am"
+    },
+    {
+      "id": 33,
+      "name": "CytoScape",
+      "slug": "cytoscape",
+      "url": "https://cytoscape.org/",
+      "categories": [
+        "Network Analysis Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data",
+      "image": "/assets/images/cytoscape.png",
+      "updated": "5/19/2024 11:36am"
+    },
+    {
+      "id": 34,
+      "name": "CiteSpace",
+      "slug": "citespace",
+      "url": "https://citespace.podia.com/",
+      "categories": [
+        "Network Analysis Tools",
+        "Research Tools"
+      ],
+      "description": "Making it easy to understand a field of research",
+      "image": "/assets/images/citespace.png",
+      "updated": "5/14/2024 1:26pm"
+    },
+    {
+      "id": 35,
+      "name": "VosViewer",
+      "slug": "vosviewer",
+      "url": "https://www.vosviewer.com/",
+      "categories": [
+        "Network Analysis Tools",
+        "Research Tools"
+      ],
+      "description": "VOSviewer is a software tool for constructing and visualizing bibliometric networks",
+      "image": "/assets/images/vosviewer.png",
+      "updated": "5/14/2024 1:26pm"
+    },
+    {
+      "id": 36,
+      "name": "Gephi",
+      "slug": "gephi",
+      "url": "https://gephi.org/",
+      "categories": [
+        "Network Analysis Tools"
+      ],
+      "description": "Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free",
+      "image": "/assets/images/gephi.png",
+      "updated": "5/14/2024 1:27pm"
+    },
+    {
+      "id": 37,
+      "name": "Open Frameworks",
+      "slug": "open-frameworks",
+      "url": "https://openframeworks.cc/",
+      "categories": [
+        "Creative Coding Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "openFrameworks is an open source C++ toolkit for creative coding.",
+      "image": "/assets/images/open-frameworks.png",
+      "updated": "5/19/2024 11:36am"
+    },
+    {
+      "id": 38,
+      "name": "Pixjjs",
+      "slug": "pixjjs",
+      "url": "https://pixijs.com/",
+      "categories": [
+        "Creative Coding Tools"
+      ],
+      "description": "Create beautiful digital content with the fastest, most flexible 2D WebGL renderer",
+      "image": "/assets/images/pixjjs.png",
+      "updated": "5/14/2024 1:28pm"
+    },
+    {
+      "id": 39,
+      "name": "Processing",
+      "slug": "processing",
+      "url": "https://processing.org/",
+      "categories": [
+        "Creative Coding Tools"
+      ],
+      "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology",
+      "image": "/assets/images/processing.png",
+      "updated": "5/14/2024 1:29pm"
+    },
+    {
+      "id": 40,
+      "name": "p5js",
+      "slug": "p5js",
+      "url": "https://p5js.org/",
+      "categories": [
+        "Creative Coding Tools"
+      ],
+      "description": "p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else",
+      "image": "/assets/images/p5js.png",
+      "updated": "5/14/2024 3:26pm"
+    },
+    {
+      "id": 41,
+      "name": "Flourish",
+      "slug": "flourish",
+      "url": "https://flourish.studio/",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "Explore and explain your data with beautiful visualizations and stories. Publish, present or download. No need to code or install software.",
+      "image": "/assets/images/flourish.png",
+      "updated": "5/14/2024 3:27pm"
+    },
+    {
+      "id": 42,
+      "name": "High Charts",
+      "slug": "high-charts",
+      "url": "https://www.highcharts.com/",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "We make it easy for developers to create charts and dashboards for web and mobile platforms. For Javascript, Angular, React, VueJS, iOS, R, .NET, Python, and more",
+      "image": "/assets/images/high-charts.png",
+      "updated": "5/14/2024 3:34pm"
+    },
+    {
+      "id": 43,
+      "name": "Palladio",
+      "slug": "palladio",
+      "url": "https://hdlab.stanford.edu/palladio/",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "Visualize complex historical data with ease.",
+      "image": "/assets/images/palladio.png",
+      "updated": "5/14/2024 3:35pm"
+    },
+    {
+      "id": 44,
+      "name": "d3js",
+      "slug": "d3js",
+      "url": "https://d3js.org/",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "The JavaScript library for bespoke data visualization",
+      "image": "/assets/images/d3js.png",
+      "updated": "5/14/2024 3:37pm"
+    },
+    {
+      "id": 45,
+      "name": "Visualizing Data",
+      "slug": "visualizing-data",
+      "url": "https://visualisingdata.com/resources/",
+      "categories": [
+        "External Aggregated Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/visualizing-data.png",
+      "updated": "5/14/2024 3:38pm"
+    },
+    {
+      "id": 46,
+      "name": "Deck.gl",
+      "slug": "deckgl",
+      "url": "https://deck.gl/",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "deck.gl is a GPU-powered framework for visual exploratory data analysis of large datasets",
+      "image": "/assets/images/deckgl.png",
+      "updated": "5/14/2024 3:38pm"
+    },
+    {
+      "id": 47,
+      "name": "Bokeh",
+      "slug": "bokeh",
+      "url": "https://bokeh.org/",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "Interactive Data Visualization in the browser, from Python",
+      "image": "/assets/images/bokeh.png",
+      "updated": "5/14/2024 3:39pm"
+    },
+    {
+      "id": 48,
+      "name": "Vega",
+      "slug": "vega",
+      "url": "https://vega.github.io/vega/",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format, and generate web-based views using Canvas or SVG",
+      "image": "/assets/images/vega.png",
+      "updated": "5/14/2024 3:43pm"
+    },
+    {
+      "id": 49,
+      "name": "KnightLab Storytelling Toolkits",
+      "slug": "knightlab-storytelling-toolkits",
+      "url": "https://knightlab.northwestern.edu/projects/#storytelling",
+      "categories": [
+        "Storytelling Tools"
+      ],
+      "description": "We build easy-to-use tools that can help you tell better stories",
+      "image": "/assets/images/knightlab-storytelling-toolkits.png",
+      "updated": "5/14/2024 3:43pm"
+    },
+    {
+      "id": 50,
+      "name": "Twinery",
+      "slug": "twinery",
+      "url": "https://twinery.org/",
+      "categories": [
+        "Storytelling Tools"
+      ],
+      "description": "Twine is an open-source tool for telling interactive, nonlinear stories",
+      "image": "/assets/images/twinery.png",
+      "updated": "5/14/2024 3:43pm"
+    },
+    {
+      "id": 51,
+      "name": "Tiki Toki",
+      "slug": "tiki-toki",
+      "url": "https://tiki-toki.com/",
+      "categories": [
+        "Storytelling Tools"
+      ],
+      "description": "Create beautiful interactive timelines that you can share on the web. The perfect timeline maker for company history timelines and school projects",
+      "image": "/assets/images/tiki-toki.png",
+      "updated": "5/14/2024 3:44pm"
+    },
+    {
+      "id": 52,
+      "name": "Renpy",
+      "slug": "renpy",
+      "url": "https://www.renpy.org/",
+      "categories": [
+        "Storytelling Tools"
+      ],
+      "description": "Ren'Py is a visual novel engine – used by thousands of creators from around the world – that helps you use words, images, and sounds to tell interactive stories that run on computers and mobile devices",
+      "image": "/assets/images/renpy.png",
+      "updated": "5/14/2024 3:45pm"
+    },
+    {
+      "id": 53,
+      "name": "Podia",
+      "slug": "podia",
+      "url": "https://www.podia.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/podia.png",
+      "updated": "5/14/2024 3:45pm"
+    },
+    {
+      "id": 54,
+      "name": "Webflow",
+      "slug": "webflow",
+      "url": "https://webflow.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "Build with the power of code — without writing any",
+      "image": "/assets/images/webflow.png",
+      "updated": "5/14/2024 3:47pm"
+    },
+    {
+      "id": 55,
+      "name": "Framer",
+      "slug": "framer",
+      "url": "https://www.framer.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/framer.png",
+      "updated": "5/14/2024 3:47pm"
+    },
+    {
+      "id": 56,
+      "name": "Retool",
+      "slug": "retool",
+      "url": "https://retool.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/retool.png",
+      "updated": "5/14/2024 3:47pm"
+    },
+    {
+      "id": 57,
+      "name": "Glide",
+      "slug": "glide",
+      "url": "https://www.glideapps.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/glide.png",
+      "updated": "5/14/2024 3:48pm"
+    },
+    {
+      "id": 58,
+      "name": "SquareSpace",
+      "slug": "squarespace",
+      "url": "https://www.squarespace.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/squarespace.png",
+      "updated": "5/14/2024 3:48pm"
+    },
+    {
+      "id": 59,
+      "name": "WordPress",
+      "slug": "wordpress",
+      "url": "https://wordpress.org/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/wordpress.png",
+      "updated": "5/14/2024 3:49pm"
+    },
+    {
+      "id": 60,
+      "name": "Wix",
+      "slug": "wix",
+      "url": "https://www.wix.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/wix.png",
+      "updated": "5/14/2024 3:49pm"
+    },
+    {
+      "id": 61,
+      "name": "Quarto",
+      "slug": "quarto",
+      "url": "https://quarto.org/",
+      "categories": [
+        "Web IDE & Notebooks"
+      ],
+      "description": "An open-source scientific and technical publishing system",
+      "image": "/assets/images/quarto.png",
+      "updated": "5/14/2024 3:49pm"
+    },
+    {
+      "id": 62,
+      "name": "Omeka",
+      "slug": "omeka",
+      "url": "https://omeka.org/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Digital Publishing"
+      ],
+      "description": "Open-source web publishing platforms for sharing digital collections and creating media-rich online exhibits",
+      "image": "/assets/images/omeka.png",
+      "updated": "2/13/2025 3:15pm"
+    },
+    {
+      "id": 63,
+      "name": "Replit",
+      "slug": "replit",
+      "url": "https://replit.com/",
+      "categories": [
+        "Web IDE & Notebooks"
+      ],
+      "description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship software fast",
+      "image": "/assets/images/replit.png",
+      "updated": "5/14/2024 3:50pm"
+    },
+    {
+      "id": 64,
+      "name": "Code Sandbox",
+      "slug": "code-sandbox",
+      "url": "https://codesandbox.io/",
+      "categories": [
+        "Web IDE & Notebooks"
+      ],
+      "description": "CodeSandbox gives you 24/7 collaborative cloud development environments (CDEs) that resume in 2 seconds",
+      "image": "/assets/images/code-sandbox.png",
+      "updated": "5/14/2024 3:51pm"
+    },
+    {
+      "id": 65,
+      "name": "Code Pen",
+      "slug": "code-pen",
+      "url": "https://codepen.io/",
+      "categories": [
+        "Web IDE & Notebooks"
+      ],
+      "description": "CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration",
+      "image": "/assets/images/code-pen.png",
+      "updated": "5/14/2024 3:52pm"
+    },
+    {
+      "id": 66,
+      "name": "Glitch",
+      "slug": "glitch",
+      "url": "https://glitch.com/",
+      "categories": [
+        "Web IDE & Notebooks"
+      ],
+      "description": "Our Hello apps are built with best practices in mind and sample code you can remix to make your own. Or grab a minimal template and build from a blank slate",
+      "image": "/assets/images/glitch.png",
+      "updated": "5/14/2024 3:53pm"
+    },
+    {
+      "id": 67,
+      "name": "Browse AI",
+      "slug": "browse-ai",
+      "url": "https://www.browse.ai/",
+      "categories": [
+        "Web Scraping Tools"
+      ],
+      "description": "The easiest way to extract and monitor data from any website",
+      "image": "/assets/images/browse-ai.png",
+      "updated": "5/14/2024 3:55pm"
+    },
+    {
+      "id": 68,
+      "name": "Apify",
+      "slug": "apify",
+      "url": "https://apify.com/",
+      "categories": [
+        "Web Scraping Tools"
+      ],
+      "description": "Apify is the platform where developers build, deploy, and publish\nweb scraping, data extraction, and web automation tools",
+      "image": "/assets/images/apify.png",
+      "updated": "5/14/2024 3:56pm"
+    },
+    {
+      "id": 69,
+      "name": "BlackLab",
+      "slug": "blacklab",
+      "url": "https://inl.github.io/BlackLab/",
+      "categories": [
+        "Text Analysis Tools"
+      ],
+      "description": "Powerful search for large, annotated text corpora",
+      "image": "/assets/images/blacklab.png",
+      "updated": "5/14/2024 3:56pm"
+    },
+    {
+      "id": 70,
+      "name": "Conifer",
+      "slug": "conifer",
+      "url": "https://conifer.rhizome.org/",
+      "categories": [
+        "Web Archiving Tools"
+      ],
+      "description": "Conifer is a web archiving service that creates an interactive copy of any web page that you browse, including content revealed by your interactions such as playing video and audio, scrolling, clicking buttons, and so forth",
+      "image": "/assets/images/conifer.png",
+      "updated": "5/14/2024 3:57pm"
+    },
+    {
+      "id": 71,
+      "name": "Doc Now Toolkit",
+      "slug": "doc-now-toolkit",
+      "url": "https://www.docnow.io/",
+      "categories": [
+        "Web Archiving Tools",
+        "Research Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "Documenting the Now develops open source tools and community-centered practices that support the ethical collection, use, and preservation of publicly available content shared on web and social media",
+      "image": "/assets/images/doc-now-toolkit.png",
+      "updated": "5/19/2024 11:35am"
+    },
+    {
+      "id": 72,
+      "name": "Tropy",
+      "slug": "tropy",
+      "url": "https://tropy.org/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "Take control of your research photos with Tropy, a tool that shortens the path from finding archival sources to writing about them. Spend more time using your research photos, and less time hunting for them",
+      "image": "/assets/images/tropy.png",
+      "updated": "9/10/2025 9:34am"
+    },
+    {
+      "id": 73,
+      "name": "Programming Historian",
+      "slug": "programming-historian",
+      "url": "https://programminghistorian.org/",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "All tutorials at Programming Historian are rigorously peer reviewed, guided through the review process by one of our editors",
+      "image": "/assets/images/programming-historian.png",
+      "updated": "5/14/2024 3:59pm"
+    },
+    {
+      "id": 74,
+      "name": "Spatial Humanities Workshop",
+      "slug": "spatial-humanities-workshop",
+      "url": "https://lincolnmullen.com/projects/spatial-workshop/",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/spatial-humanities-workshop.png",
+      "updated": "5/14/2024 4:00pm"
+    },
+    {
+      "id": 75,
+      "name": "Descript",
+      "slug": "descript",
+      "url": "https://www.descript.com/",
+      "categories": [
+        "Digital Media Production Tools"
+      ],
+      "description": "Descript is the simple, powerful, and fun way to edit",
+      "image": "/assets/images/descript.png",
+      "updated": "5/14/2024 4:02pm"
+    },
+    {
+      "id": 76,
+      "name": "Northwestern DH Example Projects",
+      "slug": "northwestern-dh-example-projects",
+      "url": "https://libguides.northwestern.edu/dh/projects",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "",
+      "image": "/assets/images/northwestern-dh-example-projects.png",
+      "updated": "5/14/2024 4:02pm"
+    },
+    {
+      "id": 77,
+      "name": "SDSU DH Example Projects",
+      "slug": "sdsu-dh-example-projects",
+      "url": "https://libguides.sdsu.edu/digitalhumanities/projects",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "",
+      "image": "/assets/images/sdsu-dh-example-projects.png",
+      "updated": "5/14/2024 4:03pm"
+    },
+    {
+      "id": 78,
+      "name": "Lehigh DH Example Projects",
+      "slug": "lehigh-dh-example-projects",
+      "url": "https://libraryguides.lehigh.edu/digitalhumanities/projects",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "",
+      "image": "/assets/images/lehigh-dh-example-projects.png",
+      "updated": "5/14/2024 4:03pm"
+    },
+    {
+      "id": 79,
+      "name": "Stanford DH Example Projects",
+      "slug": "stanford-dh-example-projects",
+      "url": "https://digitalhumanities.stanford.edu/projects/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "",
+      "image": "/assets/images/stanford-dh-example-projects.png",
+      "updated": "5/14/2024 4:03pm"
+    },
+    {
+      "id": 80,
+      "name": "Flowing Data",
+      "slug": "flowing-data",
+      "url": "https://flowingdata.com/category/tutorials/",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "Visualize your data like an expert with hundreds of practical how-tos for presentation, analysis, and understanding",
+      "image": "/assets/images/flowing-data.png",
+      "updated": "5/14/2024 4:04pm"
+    },
+    {
+      "id": 81,
+      "name": "The Pudding",
+      "slug": "the-pudding",
+      "url": "https://pudding.cool/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "The Puddingi s a digital publication that creates visual essays with data",
+      "image": "/assets/images/the-pudding.png",
+      "updated": "5/14/2024 4:05pm"
+    },
+    {
+      "id": 82,
+      "name": "Data Sketch",
+      "slug": "data-sketch",
+      "url": "https://www.datasketch.es/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "",
+      "image": "/assets/images/data-sketch.png",
+      "updated": "5/14/2024 4:06pm"
+    },
+    {
+      "id": 83,
+      "name": "Observable D3",
+      "slug": "observable-d3",
+      "url": "https://observablehq.com/@d3/gallery",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/observable-d3.png",
+      "updated": "5/14/2024 4:06pm"
+    },
+    {
+      "id": 84,
+      "name": "Information is Beautiful",
+      "slug": "information-is-beautiful",
+      "url": "https://www.informationisbeautifulawards.com/showcase?award=2023&type=awards",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "",
+      "image": "/assets/images/information-is-beautiful.png",
+      "updated": "5/14/2024 4:06pm"
+    },
+    {
+      "id": 85,
+      "name": "Personal Website",
+      "slug": "personal-website",
+      "url": "https://shirleywu.studio/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "",
+      "image": "/assets/images/personal-website.png",
+      "updated": "5/14/2024 4:07pm"
+    },
+    {
+      "id": 86,
+      "name": "Visualizing Data Resources",
+      "slug": "visualizing-data-resources",
+      "url": "https://visualisingdata.com/resources/",
+      "categories": [
+        "External Aggregated Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/visualizing-data-resources.png",
+      "updated": "5/14/2024 4:07pm"
+    },
+    {
+      "id": 87,
+      "name": "National Endowment for the Humanities",
+      "slug": "national-endowment-for-the-humanities",
+      "url": "https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities",
+      "categories": [
+        "Funding for Institutions"
+      ],
+      "description": "",
+      "image": "/assets/images/national-endowment-for-the-humanities.png",
+      "updated": "5/14/2024 4:07pm"
+    },
+    {
+      "id": 88,
+      "name": "Afred P. Sloan Foundation",
+      "slug": "afred-p-sloan-foundation",
+      "url": "https://sloan.org/",
+      "categories": [
+        "Funding for Individuals"
+      ],
+      "description": "",
+      "image": "/assets/images/afred-p-sloan-foundation.png",
+      "updated": "5/14/2024 4:08pm"
+    },
+    {
+      "id": 89,
+      "name": "Institute of Musuem and Library Services",
+      "slug": "institute-of-musuem-and-library-services",
+      "url": "https://imls.gov/",
+      "categories": [
+        "Funding for Institutions"
+      ],
+      "description": "",
+      "image": "/assets/images/institute-of-musuem-and-library-services.png",
+      "updated": "5/14/2024 4:08pm"
+    },
+    {
+      "id": 90,
+      "name": "Mellon Foundation",
+      "slug": "mellon-foundation",
+      "url": "https://www.mellon.org/",
+      "categories": [
+        "Funding for Institutions"
+      ],
+      "description": "",
+      "image": "/assets/images/mellon-foundation.png",
+      "updated": "5/14/2024 4:08pm"
+    },
+    {
+      "id": 91,
+      "name": "Digital Scholar Toolkits",
+      "slug": "digital-scholar-toolkits",
+      "url": "https://digitalscholar.org/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "Designed by historians, our software and services make research, publishing, and cultural heritage work possible",
+      "image": "/assets/images/digital-scholar-toolkits.png",
+      "updated": "5/14/2024 4:09pm"
+    },
+    {
+      "id": 92,
+      "name": "Greenhouse Studio",
+      "slug": "greenhouse-studio",
+      "url": "https://greenhousestudios.uconn.edu/projects",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "Grounded in the humanities, we use art and technology to expand the boundaries of scholarship and learning",
+      "image": "/assets/images/greenhouse-studio.png",
+      "updated": "5/14/2024 4:10pm"
+    },
+    {
+      "id": 93,
+      "name": "Elicit",
+      "slug": "elicit",
+      "url": "https://elicit.com/",
+      "categories": [
+        "Research Tools",
+        "AI"
+      ],
+      "description": "Analyze research papers at superhuman speed. Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings.",
+      "image": "/assets/images/elicit.png",
+      "updated": "5/22/2024 5:52pm"
+    },
+    {
+      "id": 94,
+      "name": "Research Rabbit",
+      "slug": "research-rabbit",
+      "url": "https://www.researchrabbit.ai/",
+      "categories": [
+        "Research Tools",
+        "AI"
+      ],
+      "description": "We’re rethinking everything: literature search, alerts, and more",
+      "image": "/assets/images/research-rabbit.png",
+      "updated": "5/22/2024 5:51pm"
+    },
+    {
+      "id": 95,
+      "name": "A List Funding for Individuals",
+      "slug": "a-list-funding-for-individuals",
+      "url": "https://guides.lib.umich.edu/c.php?g=283104&p=1886132",
+      "categories": [
+        "Funding for Individuals"
+      ],
+      "description": "",
+      "image": "/assets/images/a-list-funding-for-individuals.png",
+      "updated": "5/14/2024 4:12pm"
+    },
+    {
+      "id": 96,
+      "name": "Michigan Humanities Grants",
+      "slug": "michigan-humanities-grants",
+      "url": "https://www.michiganhumanities.org/humanities-grants/",
+      "categories": [
+        "Funding for Individuals"
+      ],
+      "description": "",
+      "image": "/assets/images/michigan-humanities-grants.png",
+      "updated": "5/14/2024 4:12pm"
+    },
+    {
+      "id": 97,
+      "name": "DH Registry",
+      "slug": "dh-registry",
+      "url": "https://dhandlib.org/registry/",
+      "categories": [
+        "External Aggregated Resources"
+      ],
+      "description": "A list of library groups that offer digital humanities and digital scholarship services",
+      "image": "/assets/images/dh-registry.png",
+      "updated": "5/14/2024 4:13pm"
+    },
+    {
+      "id": 98,
+      "name": "American Philosophical Society DH Fellowships",
+      "slug": "american-philosophical-society-dh-fellowships",
+      "url": "https://www.amphilsoc.org/grants/digital-humanities-fellowships",
+      "categories": [
+        "Funding for Individuals"
+      ],
+      "description": "The Center for Digital Scholarship (CDS) at the American Philosophical Society invites applications for Digital Humanities Fellowships at the American Philosophical Society's Library & Museum. These fellowships, for up to 2 months, are open to scholars at all stages of their careers,",
+      "image": "/assets/images/american-philosophical-society-dh-fellowships.png",
+      "updated": "5/14/2024 4:13pm"
+    },
+    {
+      "id": 99,
+      "name": "DH Journals, Presses and Conferences",
+      "slug": "dh-journals-presses-and-conferences",
+      "url": "https://liberalarts.tamu.edu/codhr/resources/journals-presses-conferences/",
+      "categories": [
+        "External Aggregated Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/dh-journals-presses-and-conferences.png",
+      "updated": "5/14/2024 4:14pm"
+    },
+    {
+      "id": 100,
+      "name": "DH Publications and Conferences",
+      "slug": "dh-publications-and-conferences",
+      "url": "https://digitalhumanities.fas.harvard.edu/resources/publications-conferences/",
+      "categories": [
+        "External Aggregated Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/dh-publications-and-conferences.png",
+      "updated": "5/14/2024 4:14pm"
+    },
+    {
+      "id": 101,
+      "name": "Oxford DH Summer School",
+      "slug": "oxford-dh-summer-school",
+      "url": "https://digital.humanities.ox.ac.uk/digital-humanities-oxford-summer-school",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/oxford-dh-summer-school.png",
+      "updated": "5/14/2024 4:15pm"
+    },
+    {
+      "id": 102,
+      "name": "Affinity",
+      "slug": "affinity",
+      "url": "https://affinity.serif.com/en-us/",
+      "categories": [
+        "Digital Media Production Tools"
+      ],
+      "description": "Award-winning photo editing, graphic design and page layout software for Mac, Windows & iPad.",
+      "image": "/assets/images/affinity.png",
+      "updated": "5/14/2024 3:33pm"
+    },
+    {
+      "id": 103,
+      "name": "Voyant",
+      "slug": "voyant",
+      "url": "https://voyant-tools.org/",
+      "categories": [
+        "Text Analysis Tools"
+      ],
+      "description": "Voyant Tools is a web-based reading and analysis environment for digital texts",
+      "image": "/assets/images/voyant.png",
+      "updated": "5/14/2024 5:31pm"
+    },
+    {
+      "id": 104,
+      "name": "Unaccompanied Child Migrants Data From NYT",
+      "slug": "unaccompanied-child-migrants-data-from-nyt",
+      "url": "https://github.com/nytimes/hhs-child-migrant-data",
+      "categories": [
+        "Data Sources"
+      ],
+      "description": "Data from the U.S. Department of Human Health and Services on children who have migrated to the United States without an adult",
+      "image": "/assets/images/unaccompanied-child-migrants-data-from-nyt.png",
+      "updated": "5/17/2024 11:23am"
+    },
+    {
+      "id": 105,
+      "name": "A List of Popular CMSs",
+      "slug": "a-list-of-popular-cmss",
+      "url": "https://www.gatsbyjs.com/docs/how-to/sourcing-data/headless-cms/",
+      "categories": [
+        "External Aggregated Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/a-list-of-popular-cmss.png",
+      "updated": "5/19/2024 11:08am"
+    },
+    {
+      "id": 106,
+      "name": "Hugo",
+      "slug": "hugo",
+      "url": "https://gohugo.io/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again",
+      "image": "/assets/images/hugo.png",
+      "updated": "5/19/2024 11:09am"
+    },
+    {
+      "id": 107,
+      "name": "11ty (Eleventy)",
+      "slug": "11ty-eleventy",
+      "url": "https://www.11ty.dev/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "Eleventy is a simpler static site generator",
+      "image": "/assets/images/11ty-eleventy.png",
+      "updated": "5/19/2024 11:11am"
+    },
+    {
+      "id": 108,
+      "name": "Publii",
+      "slug": "publii",
+      "url": "https://getpublii.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "With Publii, the most intuitive static site CMS, you can create a beautiful, safe, and privacy-friendly website quickly and easily; perfect for anyone who wants a fast, secure website in a flash",
+      "image": "/assets/images/publii.png",
+      "updated": "5/19/2024 11:12am"
+    },
+    {
+      "id": 109,
+      "name": "Ghost",
+      "slug": "ghost",
+      "url": "https://ghost.org/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Open Source / Open Access",
+        "Digital Publishing"
+      ],
+      "description": "Open source independent technology\nfor modern publishing",
+      "image": "/assets/images/ghost.png",
+      "updated": "2/13/2025 3:15pm"
+    },
+    {
+      "id": 110,
+      "name": "Mukurtu",
+      "slug": "mukurtu",
+      "url": "https://mukurtu.org/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "The free, mobile, and open source platform built with Indigenous communities to manage and share digital cultural heritage",
+      "image": "/assets/images/mukurtu.png",
+      "updated": "5/19/2024 11:35am"
+    },
+    {
+      "id": 111,
+      "name": "Drupal",
+      "slug": "drupal",
+      "url": "https://www.drupal.org/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "Drupal powers one in 40 websites in the world including sites from Tesla, Pfizer and NBC and is Open source",
+      "image": "/assets/images/drupal.png",
+      "updated": "5/19/2024 11:19am"
+    },
+    {
+      "id": 112,
+      "name": "Vue Press",
+      "slug": "vue-press",
+      "url": "https://vuepress.vuejs.org/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "Vue-powered (a Javascript framework) Static Site Generator",
+      "image": "/assets/images/vue-press.png",
+      "updated": "5/19/2024 11:21am"
+    },
+    {
+      "id": 113,
+      "name": "Scalar",
+      "slug": "scalar",
+      "url": "https://github.com/anvc/scalar",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Open Source / Open Access",
+        "Digital Publishing"
+      ],
+      "description": "Born-digital, open source, media-rich scholarly publishing that’s as easy as blogging",
+      "image": "/assets/images/scalar.png",
+      "updated": "2/13/2025 3:15pm"
+    },
+    {
+      "id": 114,
+      "name": "eScholarship",
+      "slug": "escholarship",
+      "url": "https://escholarship.org/",
+      "categories": [
+        "Open Source / Open Access",
+        "Research Tools"
+      ],
+      "description": "eScholarship is an open access publishing platform and  the institutional repository for the UC system",
+      "image": "/assets/images/escholarship.png",
+      "updated": "5/19/2024 11:34am"
+    },
+    {
+      "id": 115,
+      "name": "Figshare Data Repository",
+      "slug": "figshare-data-repository",
+      "url": "https://figshare.com/",
+      "categories": [
+        "Open Source / Open Access",
+        "Data Sources",
+        "Research Tools"
+      ],
+      "description": "A home for papers, FAIR data and non-traditional research outputs that is easy to use and ready now",
+      "image": "/assets/images/figshare-data-repository.png",
+      "updated": "5/19/2024 12:54pm"
+    },
+    {
+      "id": 116,
+      "name": "Dryad Data Repository",
+      "slug": "dryad-data-repository",
+      "url": "https://datadryad.org/stash",
+      "categories": [
+        "Open Source / Open Access",
+        "Data Sources",
+        "Research Tools"
+      ],
+      "description": "We make it easier to share, find, use, and cite data, and are ready-made for emerging data-sharing requirements",
+      "image": "/assets/images/dryad-data-repository.png",
+      "updated": "5/19/2024 12:50pm"
+    },
+    {
+      "id": 117,
+      "name": "Harvard Dataverse Data Repository",
+      "slug": "harvard-dataverse-data-repository",
+      "url": "https://dataverse.harvard.edu/",
+      "categories": [
+        "Open Source / Open Access",
+        "Data Sources",
+        "Research Tools"
+      ],
+      "description": "The Harvard Dataverse Repository is a free data repository open to all researchers from any discipline, both inside and outside of the Harvard community, where you can share, archive, cite, access, and explore research data",
+      "image": "/assets/images/harvard-dataverse-data-repository.png",
+      "updated": "5/19/2024 12:51pm"
+    },
+    {
+      "id": 118,
+      "name": "Open Science Framework",
+      "slug": "open-science-framework",
+      "url": "https://osf.io/",
+      "categories": [
+        "Open Source / Open Access",
+        "Data Sources",
+        "Research Tools"
+      ],
+      "description": "OSF is a free, open platform to support your research and enable collaboration",
+      "image": "/assets/images/open-science-framework.png",
+      "updated": "5/19/2024 12:55pm"
+    },
+    {
+      "id": 119,
+      "name": "Zenodo",
+      "slug": "zenodo",
+      "url": "https://zenodo.org/",
+      "categories": [
+        "Open Source / Open Access",
+        "Data Sources",
+        "Research Tools"
+      ],
+      "description": "Built and developed by researchers, to ensure that everyone can join in Open Science",
+      "image": "/assets/images/zenodo.png",
+      "updated": "5/19/2024 12:55pm"
+    },
+    {
+      "id": 120,
+      "name": "ICPSR Data Repository",
+      "slug": "icpsr-data-repository",
+      "url": "https://www.icpsr.umich.edu/web/pages/ICPSR/index.html",
+      "categories": [
+        "Open Source / Open Access",
+        "Data Sources",
+        "Research Tools"
+      ],
+      "description": "ICPSR is research science data and resources on topics like social media, politics, economics, social sciences, government, GIS, & more",
+      "image": "/assets/images/icpsr-data-repository.png",
+      "updated": "5/19/2024 12:58pm"
+    },
+    {
+      "id": 121,
+      "name": "Orange",
+      "slug": "orange",
+      "url": "https://orangedatamining.com/",
+      "categories": [
+        "Visualization Tools",
+        "Research Tools",
+        "Text Analysis Tools"
+      ],
+      "description": "Orange is a component-based data mining software. It includes a range of data visualization, exploration, preprocessing and modeling techniques. It can be used through a nice and intuitive user interface or, for more advanced users, as a module for the Python programming language",
+      "image": "/assets/images/orange.png",
+      "updated": "5/19/2024 3:41pm"
+    },
+    {
+      "id": 122,
+      "name": "LIWC",
+      "slug": "liwc",
+      "url": "https://www.liwc.app/",
+      "categories": [
+        "Text Analysis Tools",
+        "Research Tools",
+        "Visualization Tools"
+      ],
+      "description": "Linguistic Inquiry and Word Count (LIWC) is the gold standard in software for analyzing word use. It can be used to study a single individual, groups of people over time, or all of social media.",
+      "image": "/assets/images/liwc.png",
+      "updated": "5/19/2024 3:42pm"
+    },
+    {
+      "id": 123,
+      "name": "CLIR Postdoctoral Fellowship",
+      "slug": "clir-postdoctoral-fellowship",
+      "url": "https://postdoc.clir.org/",
+      "categories": [
+        "Funding for Individuals"
+      ],
+      "description": "The CLIR Postdoctoral Fellowship Program offers recent Ph.D. graduates the chance to develop research tools, resources, and services while exploring new career opportunities",
+      "image": "/assets/images/clir-postdoctoral-fellowship.png",
+      "updated": "5/19/2024 3:44pm"
+    },
+    {
+      "id": 124,
+      "name": "Data to Viz",
+      "slug": "data-to-viz",
+      "url": "https://www.data-to-viz.com/#explore",
+      "categories": [
+        "Visualization Tools",
+        "Learning Resources"
+      ],
+      "description": "From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid",
+      "image": "/assets/images/data-to-viz.png",
+      "updated": "5/20/2024 12:46pm"
+    },
+    {
+      "id": 125,
+      "name": "Python Graph Gallery",
+      "slug": "python-graph-gallery",
+      "url": "https://python-graph-gallery.com/",
+      "categories": [
+        "Visualization Tools",
+        "Learning Resources"
+      ],
+      "description": "The Python Graph Gallery is a collection of hundreds of charts made with Python",
+      "image": "/assets/images/python-graph-gallery.png",
+      "updated": "5/20/2024 12:49pm"
+    },
+    {
+      "id": 126,
+      "name": "Datawrapper",
+      "slug": "datawrapper",
+      "url": "https://www.datawrapper.de/",
+      "categories": [
+        "Visualization Tools"
+      ],
+      "description": "Datawrapper lets you show your data as beautiful charts, maps or tables with a few clicks",
+      "image": "/assets/images/datawrapper.png",
+      "updated": "5/20/2024 12:51pm"
+    },
+    {
+      "id": 127,
+      "name": "Google Dataset Search",
+      "slug": "google-dataset-search",
+      "url": "https://datasetsearch.research.google.com/",
+      "categories": [
+        "Data Sources",
+        "Research Tools"
+      ],
+      "description": "Dataset Search is a search engine for datasets. Using a simple keyword search, users can discover datasets hosted in thousands of repositories across the Web",
+      "image": "/assets/images/google-dataset-search.png",
+      "updated": "5/20/2024 1:23pm"
+    },
+    {
+      "id": 128,
+      "name": "Re3Data",
+      "slug": "re3data",
+      "url": "https://www.re3data.org/",
+      "categories": [
+        "Data Sources",
+        "Research Tools"
+      ],
+      "description": "Registry of research data repositories",
+      "image": "/assets/images/re3data.png",
+      "updated": "5/20/2024 1:26pm"
+    },
+    {
+      "id": 129,
+      "name": "Ticha",
+      "slug": "ticha",
+      "url": "https://ticha.haverford.edu/en/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "Ticha allows users to access and explore many interlinked layers of texts from a corpus of Colonial Valley Zapotec manuscripts and printed books, including images of the original documents, transcriptions, translations, and linguistic analysis, including morphological interlinearization",
+      "image": "/assets/images/ticha.png",
+      "updated": "5/20/2024 1:27pm"
+    },
+    {
+      "id": 130,
+      "name": "Dig Podcast",
+      "slug": "dig-podcast",
+      "url": "https://digpodcast.org/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "Dig: A History Podcast is a narrative-driven, open access, and accessible digital history project bridging the worlds of popular and academic history with an explicitly feminist perspective",
+      "image": "/assets/images/dig-podcast.png",
+      "updated": "5/20/2024 1:28pm"
+    },
+    {
+      "id": 131,
+      "name": "Digital Transgender Archive",
+      "slug": "digital-transgender-archive",
+      "url": "https://www.digitaltransgenderarchive.net/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "The purpose of the Digital Transgender Archive (DTA) is to increase the accessibility of transgender history by providing an online hub for digitized historical materials, born-digital materials, and information on archival holdings throughout the world",
+      "image": "/assets/images/digital-transgender-archive.png",
+      "updated": "5/20/2024 1:29pm"
+    },
+    {
+      "id": 132,
+      "name": "Project Gutenberg",
+      "slug": "project-gutenberg",
+      "url": "https://www.gutenberg.org/",
+      "categories": [
+        "Data Sources",
+        "Example Projects"
+      ],
+      "description": "Project Gutenberg is a library of over 70,000 free eBooks",
+      "image": "/assets/images/project-gutenberg.png",
+      "updated": "5/20/2024 1:32pm"
+    },
+    {
+      "id": 133,
+      "name": "Calisphere",
+      "slug": "calisphere",
+      "url": "https://calisphere.org/",
+      "categories": [
+        "Data Sources",
+        "Example Projects"
+      ],
+      "description": "Your gateway to California’s remarkable digital collections. Calisphere provides free access to unique and historically important artifacts for research, teaching, and curious exploration. Discover over two million photographs, documents, letters, artwork, diaries, oral histories, films, advertisements, musical recordings, and more",
+      "image": "/assets/images/calisphere.png",
+      "updated": "5/20/2024 1:34pm"
+    },
+    {
+      "id": 134,
+      "name": "Digital Public Library of America",
+      "slug": "digital-public-library-of-america",
+      "url": "https://dp.la/",
+      "categories": [
+        "Data Sources",
+        "Example Projects"
+      ],
+      "description": "Discover 49,882,610 images, texts, videos, and sounds from across the United States",
+      "image": "/assets/images/digital-public-library-of-america.png",
+      "updated": "5/20/2024 1:36pm"
+    },
+    {
+      "id": 135,
+      "name": "NYPL Digital Collections",
+      "slug": "nypl-digital-collections",
+      "url": "https://digitalcollections.nypl.org/",
+      "categories": [
+        "Data Sources",
+        "Example Projects"
+      ],
+      "description": "Explore 877,348 items digitized from The New York Public Library's collections. This site is a living database with new materials added every day, featuring prints, photographs, maps, manuscripts, streaming video, and more",
+      "image": "/assets/images/nypl-digital-collections.png",
+      "updated": "5/20/2024 1:38pm"
+    },
+    {
+      "id": 136,
+      "name": "Internet Archive",
+      "slug": "internet-archive",
+      "url": "https://archive.org/",
+      "categories": [
+        "Data Sources",
+        "Example Projects"
+      ],
+      "description": "Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more",
+      "image": "/assets/images/internet-archive.png",
+      "updated": "5/20/2024 1:39pm"
+    },
+    {
+      "id": 137,
+      "name": "Critical Commons",
+      "slug": "critical-commons",
+      "url": "https://criticalcommons.org/",
+      "categories": [
+        "Data Sources",
+        "Example Projects"
+      ],
+      "description": "Critical Commons is a public media archive and fair use advocacy network that supports the transformative reuse of media in scholarly and creative contexts",
+      "image": "/assets/images/critical-commons.png",
+      "updated": "5/20/2024 1:40pm"
+    },
+    {
+      "id": 138,
+      "name": "Europeana",
+      "slug": "europeana",
+      "url": "https://www.europeana.eu/en",
+      "categories": [
+        "Data Sources",
+        "Example Projects"
+      ],
+      "description": "Discover Europe’s digital cultural heritage\nSearch, save and share art, books, films and music from thousands of cultural institutions",
+      "image": "/assets/images/europeana.png",
+      "updated": "5/20/2024 1:41pm"
+    },
+    {
+      "id": 139,
+      "name": "Awesome Network Analysis Data",
+      "slug": "awesome-network-analysis-data",
+      "url": "https://github.com/briatte/awesome-network-analysis",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "A curated list of awesome network analysis resources",
+      "image": "/assets/images/awesome-network-analysis-data.png",
+      "updated": "5/20/2024 1:44pm"
+    },
+    {
+      "id": 140,
+      "name": "Stanford Large Network Dataset Collection",
+      "slug": "stanford-large-network-dataset-collection",
+      "url": "https://snap.stanford.edu/data/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/stanford-large-network-dataset-collection.png",
+      "updated": "5/20/2024 1:45pm"
+    },
+    {
+      "id": 141,
+      "name": "The Carpentries",
+      "slug": "the-carpentries",
+      "url": "https://carpentries.org/index.html",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "We teach foundational coding and data science skills to researchers worldwide",
+      "image": "/assets/images/the-carpentries.png",
+      "updated": "5/20/2024 1:49pm"
+    },
+    {
+      "id": 142,
+      "name": "US and Canada DS Funding List",
+      "slug": "us-and-canada-ds-funding-list",
+      "url": "https://elaboratories.org/resources/grant-opportunities/",
+      "categories": [
+        "Funding for Institutions",
+        "External Aggregated Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/us-and-canada-ds-funding-list.png",
+      "updated": "5/21/2024 12:52pm"
+    },
+    {
+      "id": 143,
+      "name": "Programming for Humanists",
+      "slug": "programming-for-humanists",
+      "url": "https://liberalarts.tamu.edu/codhr/programs/p4h/",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "Programming4Humanists (P4H) is a continuing education program designed to introduce participants to methodologies, coding, and programming languages associated with the Digital Humanities (DH). P4H courses are taught by CoDHR staff and TAMU faculty during the Fall, Spring, and Summer semesters. Course participants have the option to attend class synchronously via Zoom or review class recordings on their own time",
+      "image": "/assets/images/programming-for-humanists.png",
+      "updated": "5/21/2024 12:55pm"
+    },
+    {
+      "id": 144,
+      "name": "How to Write and Submit Federal Grant Applications",
+      "slug": "how-to-write-and-submit-federal-grant-applications",
+      "url": "https://elaboratories.org/event/writing-submitting-federal-grant-applications-a-free-virtual-workshop/",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "It is particularly designed for individuals and organizations who are not affiliated with a higher education institution and/or do not have previous experience applying for a federal grant. This workshop includes practical advice to help you craft your grant application. The presenters also share their insights into the complex process of submitting an application through the Grants.gov portal",
+      "image": "/assets/images/how-to-write-and-submit-federal-grant-applications.png",
+      "updated": "5/21/2024 12:57pm"
+    },
+    {
+      "id": 145,
+      "name": "Library Juice Academy",
+      "slug": "library-juice-academy",
+      "url": "https://libraryjuiceacademy.com/",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "Library Juice Academy offers a range of online professional development courses for librarians, archivists, and other staff, focusing on practical topics to build new skills",
+      "image": "/assets/images/library-juice-academy.png",
+      "updated": "5/21/2024 12:59pm"
+    },
+    {
+      "id": 146,
+      "name": "Digital Humanities Summer Institute (DHSI)",
+      "slug": "digital-humanities-summer-institute-dhsi",
+      "url": "https://dhsi.org/",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "DHSI is an ideal environment for discussing, learning, and building skills in the digital humanities.\nJoin us for intensive seminars, colloquium presentations, affiliated events, and much more",
+      "image": "/assets/images/digital-humanities-summer-institute-dhsi.png",
+      "updated": "5/21/2024 1:00pm"
+    },
+    {
+      "id": 147,
+      "name": "Commons in A Box",
+      "slug": "commons-in-a-box",
+      "url": "https://commonsinabox.org/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Open Source / Open Access",
+        "Digital Publishing"
+      ],
+      "description": "Commons In A Box (CBOX) takes the complexity out of creating an online space, or digital commons, for your community. Our free open-source software provides an infrastructure that encourages discussion, collaboration, and sharing.",
+      "image": "/assets/images/commons-in-a-box.png",
+      "updated": "2/13/2025 3:15pm"
+    },
+    {
+      "id": 148,
+      "name": "Digital Scholarship Fellowship from University of Victoria",
+      "slug": "digital-scholarship-fellowship-from-university-of-victoria",
+      "url": "https://etcl.uvic.ca/digital-scholarship-fellowship-2/",
+      "categories": [
+        "Funding for Individuals"
+      ],
+      "description": "The Electronic Textual Cultures Lab (ETCL) at the University of Victoria is offering Digital Scholarship Fellowships during the academic year. Digital Scholarship Fellowships support graduate students, postdoctoral fellows, new and visiting scholars at UVic, as well as staff, faculty, and librarians making substantial use of digital and/or social knowledge creation methods to do humanities or interdisciplinary research.",
+      "image": "/assets/images/digital-scholarship-fellowship-from-university-of-victoria.png",
+      "updated": "5/21/2024 1:16pm"
+    },
+    {
+      "id": 149,
+      "name": "Wikidot",
+      "slug": "wikidot",
+      "url": "https://www.wikidot.com/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "It's simply a place to build wiki-based websites. Use it to publish content, share your documents, collaborate with friends or coworkers, create a place for your community",
+      "image": "/assets/images/wikidot.png",
+      "updated": "5/21/2024 1:21pm"
+    },
+    {
+      "id": 150,
+      "name": "Jane Addams Papers Project Guide",
+      "slug": "jane-addams-papers-project-guide",
+      "url": "http://jappg.wikidot.com/",
+      "categories": [
+        "Example Projects",
+        "Learning Resources"
+      ],
+      "description": "Details on how a digital scholarship project is created",
+      "image": "/assets/images/jane-addams-papers-project-guide.png",
+      "updated": "5/21/2024 1:23pm"
+    },
+    {
+      "id": 151,
+      "name": "Fanny Fern Archive",
+      "slug": "fanny-fern-archive",
+      "url": "https://fannyfern.org/home",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "Fanny Fern in The New York Ledger explores one of the most successful periods in the career of Fanny Fern, who in the mid-nineteenth century became the highest-paid newspaper columnist in the United States",
+      "image": "/assets/images/fanny-fern-archive.png",
+      "updated": "5/21/2024 1:25pm"
+    },
+    {
+      "id": 152,
+      "name": "The Walt Whitman Archive",
+      "slug": "the-walt-whitman-archive",
+      "url": "https://whitmanarchive.org/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "The Walt Whitman Archive endeavors to make Whitman's vast work freely and conveniently accessible to scholars, students, and general readers. Whitman, America's most influential poet and a writer of global renown, is the most challenging of all American authors in terms of the textual difficulties his work presents",
+      "image": "/assets/images/the-walt-whitman-archive.png",
+      "updated": "5/21/2024 1:26pm"
+    },
+    {
+      "id": 153,
+      "name": "DH Training Network",
+      "slug": "dh-training-network",
+      "url": "https://dhsi.org/dh-training-network/",
+      "categories": [
+        "Learning Resources",
+        "External Aggregated Resources"
+      ],
+      "description": "",
+      "image": "/assets/images/dh-training-network.png",
+      "updated": "5/21/2024 1:32pm"
+    },
+    {
+      "id": 154,
+      "name": "The Recovery Hub for American Women Writers",
+      "slug": "the-recovery-hub-for-american-women-writers",
+      "url": "https://recoveryhub.siue.edu/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "The Recovery Hub for American Women Writers supports projects recovering the work of women writers by providing digital access to forgotten or neglected texts and/or extending them with network mapping, spatial analysis, multimedia storytelling, innovative contextualization, and the distant reading of massive datasets.",
+      "image": "/assets/images/the-recovery-hub-for-american-women-writers.png",
+      "updated": "5/21/2024 1:34pm"
+    },
+    {
+      "id": 155,
+      "name": "eLaboratories",
+      "slug": "elaboratories",
+      "url": "https://elaboratories.org/",
+      "categories": [
+        "Learning Resources"
+      ],
+      "description": "eLaboratories—or eLabs—is an emergent space for cultivating connections, conversations, and collaborations between a diverse community of practitioners engaged in editing, recovery, or other research activities related to making source materials accessible, discoverable, or (re)imaginable. Through our courses, forums, events, and more, practitioners can share their passions, grow their expertise, and shape the discourse of a vibrant, innovative, and inclusive community",
+      "image": "/assets/images/elaboratories.png",
+      "updated": "5/21/2024 1:42pm"
+    },
+    {
+      "id": 156,
+      "name": "Center for Digital Editing",
+      "slug": "center-for-digital-editing",
+      "url": "https://centerfordigitalediting.org/cde-projects/",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "The CDE collaborates with a variety of documentary editing and digital humanities projects. Despite the diversity of content, methodologies, and publication outputs, all projects share the goal of creating broad accessibility, ensuring users can discover and explore new content",
+      "image": "/assets/images/center-for-digital-editing.png",
+      "updated": "5/21/2024 5:41pm"
+    },
+    {
+      "id": 157,
+      "name": "Humanities for All",
+      "slug": "humanities-for-all",
+      "url": "https://humanitiesforall.org/",
+      "categories": [
+        "Example Projects",
+        "External Aggregated Resources"
+      ],
+      "description": "Humanities for All showcases over 2,000 examples of publicly engaged humanities work at colleges and universities across the United States",
+      "image": "/assets/images/humanities-for-all.png",
+      "updated": "5/21/2024 5:40pm"
+    },
+    {
+      "id": 158,
+      "name": "Glasp",
+      "slug": "glasp",
+      "url": "https://glasp.co/",
+      "categories": [
+        "Text Analysis Tools",
+        "Research Tools"
+      ],
+      "description": "Glasp is a PDF & Web highlighter that helps you collect and organize your favorite quotes and thoughts from the web",
+      "image": "/assets/images/glasp.png",
+      "updated": "5/22/2024 10:43am"
+    },
+    {
+      "id": 159,
+      "name": "Hathitrust",
+      "slug": "hathitrust",
+      "url": "https://www.hathitrust.org/",
+      "categories": [
+        "Text Analysis Tools",
+        "Data Sources",
+        "Research Tools",
+        "Example Projects"
+      ],
+      "description": "HathiTrust Digital Library is a large-scale collaborative repository of digital content from research libraries including content digitized via Google Books and the Internet Archive digitization initiatives, and more. HathiTrust Research Center Analytics\nSupporting large-scale text analysis of the HathiTrust Digital Library for educational and non-profit research",
+      "image": "/assets/images/hathitrust.png",
+      "updated": "5/22/2024 11:14am"
+    },
+    {
+      "id": 160,
+      "name": "Collection Builder",
+      "slug": "collection-builder",
+      "url": "https://collectionbuilder.github.io/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Digital Publishing"
+      ],
+      "description": "CollectionBuilder is an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology",
+      "image": "/assets/images/collection-builder.png",
+      "updated": "2/13/2025 3:15pm"
+    },
+    {
+      "id": 161,
+      "name": "Media CMS",
+      "slug": "media-cms",
+      "url": "https://mediacms.io/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Open Source / Open Access",
+        "Digital Publishing"
+      ],
+      "description": "Modern, fully featured open source\nvideo and media CMS",
+      "image": "/assets/images/media-cms.png",
+      "updated": "2/13/2025 3:16pm"
+    },
+    {
+      "id": 162,
+      "name": "Blender",
+      "slug": "blender",
+      "url": "https://www.blender.org/",
+      "categories": [
+        "3D"
+      ],
+      "description": "Get the world’s best 3D CG technology in the hands of artists as free/open source software",
+      "image": "/assets/images/blender.png",
+      "updated": "5/22/2024 5:53pm"
+    },
+    {
+      "id": 163,
+      "name": "NEH: Dangers and Opportunities of Technology: Perspectives from the Humanities",
+      "slug": "neh-dangers-and-opportunities-of-technology-perspectives-from-the-humanities",
+      "url": "https://www.neh.gov/grants/odh/digital-humanities-advancement-grants?utm_medium=email&utm_source=govdelivery",
+      "categories": [
+        "Funding for Institutions"
+      ],
+      "description": "It supports research that examines technology and its relationship to society through the lens of the humanities, with a focus on the dangers and/or opportunities presented by technology",
+      "image": "/assets/images/neh-dangers-and-opportunities-of-technology-perspectives-from-the-humanities.png",
+      "updated": "6/3/2024 9:18am"
+    },
+    {
+      "id": 164,
+      "name": "NEH: Digital Humanities Advancement Grants",
+      "slug": "neh-digital-humanities-advancement-grants",
+      "url": "https://www.neh.gov/grants/odh/digital-humanities-advancement-grants?utm_medium=email&utm_source=govdelivery",
+      "categories": [
+        "Funding for Institutions"
+      ],
+      "description": "It supports innovative, experimental, and/or computationally challenging digital projects, leading to work that can scale to enhance scholarly research, teaching, and public programming in the humanities",
+      "image": "/assets/images/neh-digital-humanities-advancement-grants.png",
+      "updated": "6/3/2024 9:19am"
+    },
+    {
+      "id": 165,
+      "name": "Digitizing Hidden Special Collections and Archives: Amplifying Unheard Voices",
+      "slug": "digitizing-hidden-special-collections-and-archives-amplifying-unheard-voices",
+      "url": "https://www.clir.org/hiddencollections/",
+      "categories": [
+        "Funding for Institutions"
+      ],
+      "description": "It is a grant competition administered by the Council on Library and Information Resources (CLIR) for digitizing rare and unique content stewarded by collecting organizations in the US and Canada",
+      "image": "/assets/images/digitizing-hidden-special-collections-and-archives-amplifying-unheard-voices.png",
+      "updated": "6/3/2024 4:33pm"
+    },
+    {
+      "id": 166,
+      "name": "Recordings at Risk",
+      "slug": "recordings-at-risk",
+      "url": "https://www.clir.org/recordings-at-risk/",
+      "categories": [
+        "Funding for Institutions"
+      ],
+      "description": "It is a national regranting program administered by CLIR to support the preservation of rare and unique audio, audiovisual, and other time-based media of high scholarly value through digital reformatting.",
+      "image": "/assets/images/recordings-at-risk.png",
+      "updated": "6/3/2024 4:34pm"
+    },
+    {
+      "id": 167,
+      "name": "Responsible Datasets in Context",
+      "slug": "responsible-datasets-in-context",
+      "url": "https://www.responsible-datasets-in-context.com/",
+      "categories": [
+        "Data Sources",
+        "Open Source / Open Access"
+      ],
+      "description": "We host datasets that are paired with rich documentation, data essays, and teaching resources, all of which draw on context and humanities perspectives and methods. We provide models for responsible data curation, documentation, story-telling, and analysis",
+      "image": "/assets/images/responsible-datasets-in-context.png",
+      "updated": "8/15/2024 12:11pm"
+    },
+    {
+      "id": 168,
+      "name": "COVE",
+      "slug": "cove",
+      "url": "https://editions.covecollective.org/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Storytelling Tools",
+        "Digital Publishing"
+      ],
+      "description": "COVE operates as a two-fold platform: Studio, where instructors can create anthologies of primary works that can then be made available for multimedia student annotation, and Editions, which hosts published and private editions, galleries, maps, and timelines, and facilitates peer review.",
+      "image": "/assets/images/cove.png",
+      "updated": "2/13/2025 3:14pm"
+    },
+    {
+      "id": 169,
+      "name": "Aeon Timeline",
+      "slug": "aeon-timeline",
+      "url": "https://www.aeontimeline.com/",
+      "categories": [
+        "Storytelling Tools"
+      ],
+      "description": "We help you manage complex stories, so you can present and write with confidence.",
+      "image": "/assets/images/aeon-timeline.png",
+      "updated": "2/13/2025 3:11pm"
+    },
+    {
+      "id": 170,
+      "name": "Pressbooks",
+      "slug": "pressbooks",
+      "url": "https://pressbooks.com/",
+      "categories": [
+        "Digital Publishing"
+      ],
+      "description": "Whether you’re an author looking to launch your next book or an educational institution looking to improve student success, Pressbooks can help you create, adapt, and share accessible high-quality digital content with ease.",
+      "image": "/assets/images/pressbooks.png",
+      "updated": "2/13/2025 3:18pm"
+    },
+    {
+      "id": 171,
+      "name": "NodeXL",
+      "slug": "nodexl",
+      "url": "https://nodexl.com/",
+      "categories": [
+        "Network Analysis Tools"
+      ],
+      "description": "No programming needed. Web-based reports. Dive into advanced social network analysis To Gain comprehensive insights effortlessly",
+      "image": "/assets/images/nodexl.png",
+      "updated": "2/13/2025 3:20pm"
+    },
+    {
+      "id": 172,
+      "name": "Survey Transfer",
+      "slug": "survey-transfer",
+      "url": "https://surveytransfer.net/",
+      "categories": [
+        "3D",
+        "Mapping Tools"
+      ],
+      "description": "A web-based powerhouse for drone mappers, surveyors, and 3D professionals, enabling seamless collaboration, secure file sharing, and rendering massive maps & 3D assets in real-time for interactive.",
+      "image": "/assets/images/survey-transfer.png",
+      "updated": "2/14/2025 3:50pm"
+    },
+    {
+      "id": 173,
+      "name": "Nira",
+      "slug": "nira",
+      "url": "https://nira.app/",
+      "categories": [
+        "3D"
+      ],
+      "description": "Nira is a collaborative platform for rendering massive 3D models in real time, enabling interactive, web-based visualization and inspection on any device, including smartphones and tablets.",
+      "image": "/assets/images/nira.png",
+      "updated": "2/14/2025 3:55pm"
+    },
+    {
+      "id": 174,
+      "name": "Open Heritage 3D",
+      "slug": "open-heritage-3d",
+      "url": "https://www.cyark.org/whatwedo/openaccess/",
+      "categories": [
+        "3D",
+        "Open Source / Open Access",
+        "Data Sources"
+      ],
+      "description": "An Online Repository for Primary 3D Cultural Heritage Data.",
+      "image": "/assets/images/open-heritage-3d.png",
+      "updated": "2/14/2025 4:26pm"
+    },
+    {
+      "id": 175,
+      "name": "Industry Documents Library",
+      "slug": "industry-documents-library",
+      "url": "https://www.industrydocuments.ucsf.edu/",
+      "categories": [
+        "Open Source / Open Access",
+        "Data Sources"
+      ],
+      "description": "A portal to millions of documents created by industries that influence public health, hosted by the UCSF Library.",
+      "image": "/assets/images/industry-documents-library.png",
+      "updated": "2/14/2025 4:26pm"
+    },
+    {
+      "id": 176,
+      "name": "Manyfold 3D",
+      "slug": "manyfold-3d",
+      "url": "https://github.com/manyfold3d/manyfold",
+      "categories": [
+        "3D",
+        "Open Source / Open Access"
+      ],
+      "description": "A self-hosted digital asset manager for 3d print files.",
+      "image": "/assets/images/manyfold-3d.png",
+      "updated": "2/14/2025 4:19pm"
+    },
+    {
+      "id": 177,
+      "name": "Morphosource",
+      "slug": "morphosource",
+      "url": "https://www.morphosource.org/",
+      "categories": [
+        "3D",
+        "Open Source / Open Access",
+        "Data Sources"
+      ],
+      "description": "Find, view, and download 3D data representing the world's natural history, cultural heritage, and scientific collections.",
+      "image": "/assets/images/morphosource.png",
+      "updated": "2/14/2025 4:26pm"
+    },
+    {
+      "id": 178,
+      "name": "Turbo Squid",
+      "slug": "turbo-squid",
+      "url": "https://www.turbosquid.com/",
+      "categories": [
+        "3D",
+        "Data Sources"
+      ],
+      "description": "3D models for every budget.",
+      "image": "/assets/images/turbo-squid.png",
+      "updated": "2/14/2025 4:28pm"
+    },
+    {
+      "id": 179,
+      "name": "Carbon Made",
+      "slug": "carbon-made",
+      "url": "https://carbonmade.com/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "Made for all creatives who want an easy, personalized way to launch their portfolio.",
+      "image": "/assets/images/carbon-made.png",
+      "updated": "2/19/2025 3:47pm"
+    },
+    {
+      "id": 180,
+      "name": "PapersGPT",
+      "slug": "papersgpt",
+      "url": "https://www.papersgpt.com/",
+      "categories": [
+        "AI",
+        "Research Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "Support ChatGPT, DeepSeek, Claude and Gemini, Llama3.2, Phi-3.5, Gemma, Mistral in Zotero are free on your Mac. Secure for your data. All are stored locally, not uploaded to the Cloud. Effectively offer you insight without leaving Zotero.",
+      "image": "/assets/images/papersgpt.png",
+      "updated": "2/20/2025 3:21pm"
+    },
+    {
+      "id": 181,
+      "name": "Recogito",
+      "slug": "recogito",
+      "url": "https://recogito.pelagios.org/",
+      "categories": [
+        "Research Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "Semantic Annotation without the pointy brackets. Work on texts and images. Identify and mark named entities. Use your data in other tools or connect to other data on the Web. Without the need to learn code.",
+      "image": "/assets/images/recogito.png",
+      "updated": "2/20/2025 3:57pm"
+    },
+    {
+      "id": 182,
+      "name": "Mirado",
+      "slug": "mirado",
+      "url": "https://projectmirador.org/",
+      "categories": [
+        "Research Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "Open-source, web based, multi-window image viewing platform with the ability to zoom, display, compare and annotate images from around the world. Mirador has been optimized to display resources from repositories that support the International Image Interoperability Framework (IIIF) API's. Mirador provides several workspaces for comparing image-based resources, suitable for use in both cultural heritage and research settings.",
+      "image": "/assets/images/mirado.png",
+      "updated": "2/20/2025 4:00pm"
+    },
+    {
+      "id": 183,
+      "name": "Transkribus",
+      "slug": "transkribus",
+      "url": "https://www.transkribus.org/",
+      "categories": [
+        "Research Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "Transkribus enables you to automatically recognize and transcribe text easily, edit seamlessly, collaborate effortlessly, and even train your custom AI for digitizing and interpreting historical documents of any form.",
+      "image": "/assets/images/transkribus.png",
+      "updated": "10/24/2025 11:43am"
+    },
+    {
+      "id": 184,
+      "name": "The Quill Project",
+      "slug": "the-quill-project",
+      "url": "https://www.quillproject.net/m2/",
+      "categories": [
+        "Example Projects",
+        "Text Analysis Tools"
+      ],
+      "description": "Developing cutting-edge tools to help teachers, lawyers and researchers interpret and teach key historical texts.",
+      "image": "/assets/images/the-quill-project.png",
+      "updated": "2/24/2025 11:22am"
+    },
+    {
+      "id": 185,
+      "name": "Computer Vision Tools from Oxford’s Visual Geometry Group",
+      "slug": "computer-vision-tools-from-oxfords-visual-geometry-group",
+      "url": "https://www.robots.ox.ac.uk/~vgg/",
+      "categories": [
+        "AI",
+        "Research Tools"
+      ],
+      "description": "Computer vision tools developed by Oxford’s Visual Geometry Group in collaboration with researchers in the humanities working in fields including book and art history, film, music and photography.",
+      "image": "/assets/images/computer-vision-tools-from-oxfords-visual-geometry-group.png",
+      "updated": "2/24/2025 11:24am"
+    },
+    {
+      "id": 186,
+      "name": "Aviary Platform",
+      "slug": "aviary-platform",
+      "url": "https://www.aviaryplatform.com/",
+      "categories": [
+        "Digital Publishing"
+      ],
+      "description": "Video and Audio Publishing Purpose Built for Libraries, Archives and Oral Histories.",
+      "image": "/assets/images/aviary-platform.png",
+      "updated": "2/26/2025 2:07pm"
+    },
+    {
+      "id": 187,
+      "name": "DMPTool",
+      "slug": "dmptool",
+      "url": "https://dmptool.org/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "With a free, community-supported service that makes it easier to create machine-actionable data management and sharing plans (DMSPs) that meet funder requirements and follow open science best practice.",
+      "image": "/assets/images/dmptool.png",
+      "updated": "2/28/2025 10:09am"
+    },
+    {
+      "id": 188,
+      "name": "SMILE",
+      "slug": "smile",
+      "url": "https://smile.smm.ncsa.illinois.edu/",
+      "categories": [
+        "Research Tools",
+        "Text Analysis Tools",
+        "Network Analysis Tools"
+      ],
+      "description": "SMILE empowers researchers to search content from multiple social media platforms all at once. Find tweets, individual user accounts, and comments that match specific criteria, and analyze content with just a few clicks. Both live and historical data are available for search.",
+      "image": "/assets/images/smile.png",
+      "updated": "2/28/2025 11:23am"
+    },
+    {
+      "id": 189,
+      "name": "Softr",
+      "slug": "softr",
+      "url": "https://www.softr.io/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/softr.png",
+      "updated": "3/4/2025 10:52am"
+    },
+    {
+      "id": 190,
+      "name": "Luma",
+      "slug": "luma",
+      "url": "https://lumalabs.ai/",
+      "categories": [
+        "AI",
+        "3D",
+        "Digital Media Production Tools"
+      ],
+      "description": "3D model and video generation.",
+      "image": "/assets/images/luma.png",
+      "updated": "3/10/2025 3:04pm"
+    },
+    {
+      "id": 191,
+      "name": "Meshy",
+      "slug": "meshy",
+      "url": "https://www.meshy.ai/",
+      "categories": [
+        "AI",
+        "3D",
+        "Digital Media Production Tools"
+      ],
+      "description": "3D model generator",
+      "image": "/assets/images/meshy.png",
+      "updated": "3/10/2025 3:07pm"
+    },
+    {
+      "id": 192,
+      "name": "Exhibit",
+      "slug": "exhibit",
+      "url": "https://www.exhibit.so/",
+      "categories": [
+        "Digital Publishing",
+        "3D",
+        "Storytelling Tools"
+      ],
+      "description": "Create, narrate, and share virtual exhibits",
+      "image": "/assets/images/exhibit.png",
+      "updated": "4/1/2025 10:28am"
+    },
+    {
+      "id": 193,
+      "name": "Kunstmatrix",
+      "slug": "kunstmatrix",
+      "url": "https://www.kunstmatrix.com/en",
+      "categories": [
+        "Digital Publishing",
+        "VR/AR/MR/XR",
+        "Storytelling Tools"
+      ],
+      "description": "KUNSTMATRIX enables you to create beautiful 3D showcases of your art to impress art lovers and collectors.",
+      "image": "/assets/images/kunstmatrix.png",
+      "updated": "4/1/2025 10:28am"
+    },
+    {
+      "id": 194,
+      "name": "Artsteps",
+      "slug": "artsteps",
+      "url": "https://www.artsteps.com/",
+      "categories": [
+        "Digital Publishing",
+        "3D",
+        "VR/AR/MR/XR",
+        "Storytelling Tools"
+      ],
+      "description": "Shape the Metaverse with your 3D virtual reality stories",
+      "image": "/assets/images/artsteps.png",
+      "updated": "4/1/2025 10:28am"
+    },
+    {
+      "id": 195,
+      "name": "Virtual Art Gallery",
+      "slug": "virtual-art-gallery",
+      "url": "https://virtualartgallery.com/",
+      "categories": [
+        "Digital Publishing",
+        "3D",
+        "Storytelling Tools"
+      ],
+      "description": "Online art exhibition",
+      "image": "/assets/images/virtual-art-gallery.png",
+      "updated": "4/1/2025 10:28am"
+    },
+    {
+      "id": 196,
+      "name": "V21ArtSpace",
+      "slug": "v21artspace",
+      "url": "https://v21artspace.com/",
+      "categories": [
+        "Digital Publishing",
+        "3D",
+        "Storytelling Tools"
+      ],
+      "description": "3D virtual exhibit service with customization services in 3D digitization, 3D printing and CGI.",
+      "image": "/assets/images/v21artspace.png",
+      "updated": "4/1/2025 10:29am"
+    },
+    {
+      "id": 197,
+      "name": "ArtPlacer",
+      "slug": "artplacer",
+      "url": "https://www.artplacer.com/",
+      "categories": [
+        "Digital Publishing",
+        "3D",
+        "Storytelling Tools"
+      ],
+      "description": "All-in-one platform designed for artists, galleries, art dealers, and curators that has 3D virtual exhibit, room mock up, and website integration services",
+      "image": "/assets/images/artplacer.png",
+      "updated": "4/1/2025 10:29am"
+    },
+    {
+      "id": 198,
+      "name": "NoteBookLM",
+      "slug": "notebooklm",
+      "url": "https://notebooklm.google/",
+      "categories": [
+        "Research Tools",
+        "AI"
+      ],
+      "description": "AI research assistant for notetaking",
+      "image": "/assets/images/notebooklm.png",
+      "updated": "3/11/2025 10:02am"
+    },
+    {
+      "id": 199,
+      "name": "Sway",
+      "slug": "sway",
+      "url": "https://sway.cloud.microsoft/",
+      "categories": [
+        "Digital Publishing",
+        "Storytelling Tools"
+      ],
+      "description": "Create visually striking newsletters, presentations, and documentation in minutes",
+      "image": "/assets/images/sway.png",
+      "updated": "4/1/2025 10:29am"
+    },
+    {
+      "id": 200,
+      "name": "Glycerine",
+      "slug": "glycerine",
+      "url": "https://glycerine.io/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "Image annotation for research, curation and education",
+      "image": "/assets/images/glycerine.png",
+      "updated": "3/11/2025 2:41pm"
+    },
+    {
+      "id": 201,
+      "name": "Digirati",
+      "slug": "digirati",
+      "url": "https://digirati.com/",
+      "categories": [
+        "Research Tools",
+        "Consultation Services"
+      ],
+      "description": "Teams of strategists, designers and engineers provide consultancy services and software products for cultural heritage institutions informed by decades of collective sector experience.",
+      "image": "/assets/images/digirati.png",
+      "updated": "3/11/2025 2:43pm"
+    },
+    {
+      "id": 202,
+      "name": "IIIF Cloud Services",
+      "slug": "iiif-cloud-services",
+      "url": "https://iiif-cloud.digirati.com/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "",
+      "image": "/assets/images/iiif-cloud-services.png",
+      "updated": "3/11/2025 2:45pm"
+    },
+    {
+      "id": 203,
+      "name": "Madoc",
+      "slug": "madoc",
+      "url": "https://madoc.digirati.com/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "Annotation and transcription tool",
+      "image": "/assets/images/madoc.png",
+      "updated": "3/11/2025 2:46pm"
+    },
+    {
+      "id": 204,
+      "name": "Cogapp",
+      "slug": "cogapp",
+      "url": "https://www.cogapp.com/",
+      "categories": [
+        "Consultation Services"
+      ],
+      "description": "Digital agency for gallery, library, and museums",
+      "image": "/assets/images/cogapp.png",
+      "updated": "3/11/2025 3:02pm"
+    },
+    {
+      "id": 205,
+      "name": "From the Page",
+      "slug": "from-the-page",
+      "url": "https://fromthepage.com/landing",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "FromThePage is a crowdsourcing platform for archives and libraries where volunteers transcribe, index, and describe historic documents",
+      "image": "/assets/images/from-the-page.png",
+      "updated": "3/11/2025 3:03pm"
+    },
+    {
+      "id": 206,
+      "name": "Performant",
+      "slug": "performant",
+      "url": "https://www.performant.com",
+      "categories": [
+        "Research Tools",
+        "Consultation Services"
+      ],
+      "description": "We partner with scholars in the humanities to build software for research and education.",
+      "image": "/assets/images/performant.png",
+      "updated": "3/11/2025 3:09pm"
+    },
+    {
+      "id": 207,
+      "name": "Fotor Relight",
+      "slug": "fotor-relight",
+      "url": "https://www.fotor.com/features/relight-photo/",
+      "categories": [
+        "Research Tools",
+        "AI"
+      ],
+      "description": "AI photo editing tool",
+      "image": "/assets/images/fotor-relight.png",
+      "updated": "3/11/2025 3:16pm"
+    },
+    {
+      "id": 208,
+      "name": "Quire",
+      "slug": "quire",
+      "url": "https://quire.getty.edu/",
+      "categories": [
+        "Digital Publishing"
+      ],
+      "description": "Quire is an open-source multiformat publishing tool designed for longevity, discoverability, and scholarship. Using a single set of plain text files, Quire creates books as authoritative and enduring as print and as vibrant and feature-rich as the web—all without paying a fee or maintaining a complicated server.",
+      "image": "/assets/images/quire.png",
+      "updated": "3/11/2025 3:24pm"
+    },
+    {
+      "id": 209,
+      "name": "MapBox",
+      "slug": "mapbox",
+      "url": "https://www.mapbox.com/",
+      "categories": [
+        "Mapping Tools",
+        "Research Tools"
+      ],
+      "description": "AI-powered location technology for automakers, mobile app developers, and logistics services",
+      "image": "/assets/images/mapbox.png",
+      "updated": "3/11/2025 3:33pm"
+    },
+    {
+      "id": 210,
+      "name": "BrowserTrix",
+      "slug": "browsertrix",
+      "url": "https://webrecorder.net/browsertrix/",
+      "categories": [
+        "Web Archiving Tools",
+        "Research Tools"
+      ],
+      "description": "High-fidelity crawling, innovative quality assurance, and collaborative organization empower you to preserve, curate, and share archived web content with confidence",
+      "image": "/assets/images/browsertrix.png",
+      "updated": "3/19/2025 4:08pm"
+    },
+    {
+      "id": 211,
+      "name": "WebRecorder",
+      "slug": "webrecorder",
+      "url": "https://webrecorder.net/",
+      "categories": [
+        "Web Archiving Tools",
+        "Research Tools"
+      ],
+      "description": "Webrecorder provides open source solutions for everyone to archive the complex, interactive Web.",
+      "image": "/assets/images/webrecorder.png",
+      "updated": "3/19/2025 4:10pm"
+    },
+    {
+      "id": 212,
+      "name": "Corpora",
+      "slug": "corpora",
+      "url": "https://bptarpley.github.io/corpora/",
+      "categories": [
+        "Digital Publishing",
+        "Research Tools"
+      ],
+      "description": "Corpora is Digital Humanities (DH) infrastructure—it's intended to be run by academic centers, libraries, or project teams, and its purpose is to greatly accelerate the development of DH projects by serving as a database, a REST API, a data collection/curation interface, and a Python-powered asynchronous task queue all wrapped into one.",
+      "image": "/assets/images/corpora.png",
+      "updated": "3/20/2025 9:13am"
+    },
+    {
+      "id": 213,
+      "name": "Reduct",
+      "slug": "reduct",
+      "url": "https://reduct.video/",
+      "categories": [
+        "Digital Media Production Tools",
+        "Storytelling Tools",
+        "Digital Publishing"
+      ],
+      "description": "Reduct is a fully online collaborative video editor, a stunningly accurate transcription service, with powerful tools for synthesizing meaning, wrapped in a sharable, searchable video archive, all in a single easy-to-use platform",
+      "image": "/assets/images/reduct.png",
+      "updated": "4/1/2025 10:58am"
+    },
+    {
+      "id": 214,
+      "name": "Work Adventure",
+      "slug": "work-adventure",
+      "url": "https://workadventu.re/",
+      "categories": [
+        "Storytelling Tools"
+      ],
+      "description": "Virtual office and remote event platform that provides an interactive 2D animated world and the ability to share video, audio, or images via the browser. w",
+      "image": "/assets/images/work-adventure.png",
+      "updated": "4/1/2025 1:53pm"
+    },
+    {
+      "id": 215,
+      "name": "Zooniverse",
+      "slug": "zooniverse",
+      "url": "https://www.zooniverse.org/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "Crowd-sourcing research project management platform",
+      "image": "/assets/images/zooniverse.png",
+      "updated": "4/2/2025 12:18pm"
+    },
+    {
+      "id": 216,
+      "name": "CSM",
+      "slug": "csm",
+      "url": "https://www.csm.ai/",
+      "categories": [
+        "3D",
+        "AI",
+        "VR/AR/MR/XR"
+      ],
+      "description": "Common Sense Machines (CSM) is building 3D generative AI models and agents that let users create controllable, production-ready workflows from images, text, and sketches. It's your 3D AI copilot",
+      "image": "/assets/images/csm.png",
+      "updated": "4/9/2025 2:22pm"
+    },
+    {
+      "id": 217,
+      "name": "Hunyuan",
+      "slug": "hunyuan",
+      "url": "https://www.hunyuan-3d.com/",
+      "categories": [
+        "3D",
+        "AI",
+        "VR/AR/MR/XR"
+      ],
+      "description": "Hunyuan3D 2.0 combines state-of-the-art shape generation and texture synthesis to create high-resolution 3D assets from text and images. Experience professional-grade 3D content creation powered by advanced AI.",
+      "image": "/assets/images/hunyuan.png",
+      "updated": "4/9/2025 2:22pm"
+    },
+    {
+      "id": 218,
+      "name": "Trellis",
+      "slug": "trellis",
+      "url": "https://trellis3d.net/",
+      "categories": [
+        "3D",
+        "AI",
+        "VR/AR/MR/XR"
+      ],
+      "description": "Ultra-high quality, character consistency, multi-image referencing",
+      "image": "/assets/images/trellis.png",
+      "updated": "4/9/2025 2:23pm"
+    },
+    {
+      "id": 219,
+      "name": "Polycam",
+      "slug": "polycam",
+      "url": "https://poly.cam/",
+      "categories": [
+        "3D",
+        "VR/AR/MR/XR"
+      ],
+      "description": "Reality capture for professionals",
+      "image": "/assets/images/polycam.png",
+      "updated": "4/9/2025 2:27pm"
+    },
+    {
+      "id": 220,
+      "name": "Spline",
+      "slug": "spline",
+      "url": "https://spline.design/",
+      "categories": [
+        "3D",
+        "VR/AR/MR/XR"
+      ],
+      "description": "Create 3D objects, edit materials, add interactivity, and export. Control the outcome of your 3d design work.",
+      "image": "/assets/images/spline.png",
+      "updated": "4/9/2025 2:28pm"
+    },
+    {
+      "id": 221,
+      "name": "Spatial.io",
+      "slug": "spatialio",
+      "url": "https://www.spatial.io/",
+      "categories": [
+        "3D",
+        "VR/AR/MR/XR",
+        "AI"
+      ],
+      "description": "Harness Spatial Computing and AI to unlock the next generation of interactive virtual worlds",
+      "image": "/assets/images/spatialio.png",
+      "updated": "4/9/2025 2:30pm"
+    },
+    {
+      "id": 222,
+      "name": "Frame",
+      "slug": "frame",
+      "url": "https://learn.framevr.io/",
+      "categories": [
+        "3D",
+        "AI",
+        "VR/AR/MR/XR"
+      ],
+      "description": "Frame is a 3D, AI-native workspace.",
+      "image": "/assets/images/frame.png",
+      "updated": "4/9/2025 2:33pm"
+    },
+    {
+      "id": 223,
+      "name": "8th Wall",
+      "slug": "8th-wall",
+      "url": "https://www.8thwall.com/",
+      "categories": [
+        "3D",
+        "VR/AR/MR/XR"
+      ],
+      "description": "Create XR Experiences & Web Games. Build with Niantic Studio for WebXR, 3D experiences and web games—no app required",
+      "image": "/assets/images/8th-wall.png",
+      "updated": "4/9/2025 2:34pm"
+    },
+    {
+      "id": 224,
+      "name": "Scaniverse",
+      "slug": "scaniverse",
+      "url": "https://scaniverse.com/",
+      "categories": [
+        "3D",
+        "VR/AR/MR/XR"
+      ],
+      "description": "Discover, capture and share 3D scenes captured by people around the world with Niantic's Scaniverse. Free and easy to download.",
+      "image": "/assets/images/scaniverse.png",
+      "updated": "4/9/2025 2:36pm"
+    },
+    {
+      "id": 225,
+      "name": "Disco CoLab",
+      "slug": "disco-colab",
+      "url": "https://www.disconetwork.org/disco-colabs",
+      "categories": [
+        "Funding for Individuals",
+        "Funding for Institutions"
+      ],
+      "description": "DISCO CO(LAB) is a new series of inter-institutional collaborative research projects hosted by the Black Communication and Technology (BCaT) Lab at the University of Maryland.",
+      "image": "/assets/images/disco-colab.png",
+      "updated": "4/10/2025 12:11pm"
+    },
+    {
+      "id": 226,
+      "name": "Georeferencer",
+      "slug": "georeferencer",
+      "url": "https://www.oldmapsonline.org/en/project/georeferencer",
+      "categories": [
+        "Mapping Tools",
+        "Research Tools"
+      ],
+      "description": "Unlock the potential of your maps with our Georeferencer tool. Assign a geographical location to your scanned maps, enrich the metadata, invite the public to collaborate through crowdsourcing events, and make your maps visible online.",
+      "image": "/assets/images/georeferencer.png",
+      "updated": "4/10/2025 12:13pm"
+    },
+    {
+      "id": 227,
+      "name": "Old Maps Online",
+      "slug": "old-maps-online",
+      "url": "https://www.oldmapsonline.org/en#position=3/33.98/-117.33",
+      "categories": [
+        "Mapping Tools"
+      ],
+      "description": "Browse historical places and search for old maps with timeline",
+      "image": "/assets/images/old-maps-online.png",
+      "updated": "4/10/2025 12:13pm"
+    },
+    {
+      "id": 228,
+      "name": "The Princeton Ethiopian, Eritrean, and Egyptian Miracles of Mary (PEMM) project",
+      "slug": "the-princeton-ethiopian-eritrean-and-egyptian-miracles-of-mary-pemm-project",
+      "url": "https://pemm.princeton.edu/en-us",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "It is a comprehensive resource for the 1,000+ “miracle stories” written about and the 2,500+ images painted of the Virgin Mary in these African countries, and preserved in Geʿez between 1300 and the present. It was developed by collaborators in the Department of Comparative Literature and Department of African American Studies at Princeton University.",
+      "image": "/assets/images/the-princeton-ethiopian-eritrean-and-egyptian-miracles-of-mary-pemm-project.png",
+      "updated": "4/18/2025 9:57am"
+    },
+    {
+      "id": 229,
+      "name": "IATH Projects",
+      "slug": "iath-projects",
+      "url": "https://www.iath.virginia.edu/projects.html",
+      "categories": [
+        "Example Projects"
+      ],
+      "description": "",
+      "image": "/assets/images/iath-projects.png",
+      "updated": "5/12/2025 11:32am"
+    },
+    {
+      "id": 230,
+      "name": "BookSnake",
+      "slug": "booksnake",
+      "url": "https://booksnake.app/",
+      "categories": [
+        "VR/AR/MR/XR"
+      ],
+      "description": "Booksnake lets you bring digitized cultural heritage materials out of online archives and into the real world by using the power of augmented reality technology. Explore books, manuscripts, newspapers, maps, and more. It feels like having the item there with you.",
+      "image": "/assets/images/booksnake.png",
+      "updated": "5/12/2025 1:10pm"
+    },
+    {
+      "id": 231,
+      "name": "UK Data Service",
+      "slug": "uk-data-service",
+      "url": "https://ukdataservice.ac.uk/find-data/browse/",
+      "categories": [
+        "Data Sources"
+      ],
+      "description": "",
+      "image": "/assets/images/uk-data-service.png",
+      "updated": "6/4/2025 1:42pm"
+    },
+    {
+      "id": 232,
+      "name": "Qualitative Data Repository",
+      "slug": "qualitative-data-repository",
+      "url": "https://qdr.syr.edu/",
+      "categories": [
+        "Data Sources"
+      ],
+      "description": "",
+      "image": "/assets/images/qualitative-data-repository.png",
+      "updated": "6/4/2025 1:44pm"
+    },
+    {
+      "id": 233,
+      "name": "Qualitative Data Sharing Tool Kit",
+      "slug": "qualitative-data-sharing-tool-kit",
+      "url": "https://qdstoolkit.org/",
+      "categories": [
+        "Data Sources"
+      ],
+      "description": "",
+      "image": "/assets/images/qualitative-data-sharing-tool-kit.png",
+      "updated": "6/4/2025 1:46pm"
+    },
+    {
+      "id": 234,
+      "name": "Boris",
+      "slug": "boris",
+      "url": "https://www.boris.unito.it/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "BORIS is an easy-to-use event logging software for video/audio coding and live observations. BORIS is an easy-to-use event logging software for video/audio coding and live observations.",
+      "image": "/assets/images/boris.png",
+      "updated": "6/4/2025 1:57pm"
+    },
+    {
+      "id": 235,
+      "name": "Teachable Machine",
+      "slug": "teachable-machine",
+      "url": "https://teachablemachine.withgoogle.com/",
+      "categories": [
+        "Research Tools",
+        "AI"
+      ],
+      "description": "Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone.",
+      "image": "/assets/images/teachable-machine.png",
+      "updated": "6/5/2025 3:48pm"
+    },
+    {
+      "id": 236,
+      "name": "SudoWrite",
+      "slug": "sudowrite",
+      "url": "https://sudowrite.com/",
+      "categories": [
+        "AI"
+      ],
+      "description": "AI writing partner for fiction.",
+      "image": "/assets/images/sudowrite.png",
+      "updated": "6/5/2025 3:49pm"
+    },
+    {
+      "id": 237,
+      "name": "LabArchive",
+      "slug": "labarchive",
+      "url": "https://www.labarchives.com/",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "Easily organize, search and share your scientific data in a powerful electronic lab notebook that will help you deliver higher-quality research, faster.",
+      "image": "/assets/images/labarchive.png",
+      "updated": "6/5/2025 4:12pm"
+    },
+    {
+      "id": 238,
+      "name": "Cargo",
+      "slug": "cargo",
+      "url": "https://cargo.site/",
+      "categories": [
+        "Website Builder & CMS Tools"
+      ],
+      "description": "Cargo is a site builder for designers and artists. We are interested in two main things: helping creative people secure jobs/clients through showing work and displaying work, generally.",
+      "image": "/assets/images/cargo.png",
+      "updated": "6/12/2025 3:57pm"
+    },
+    {
+      "id": 239,
+      "name": "Bellingcat’s Online Open Source Investigation Toolkit",
+      "slug": "bellingcats-online-open-source-investigation-toolkit",
+      "url": "https://bellingcat.gitbook.io/toolkit",
+      "categories": [
+        "Research Tools",
+        "Open Source / Open Access"
+      ],
+      "description": "This toolkit includes satellite and mapping services, tools for verifying photos and videos, websites to archive web pages, and much more. Most of the tools are available for free.",
+      "image": "/assets/images/bellingcats-online-open-source-investigation-toolkit.png",
+      "updated": "7/7/2025 3:38pm"
+    },
+    {
+      "id": 240,
+      "name": "Wax",
+      "slug": "wax",
+      "url": "https://minicomp.github.io/wax/",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Digital Publishing"
+      ],
+      "description": "Jekyll based framework for minimal exhibitions with IIIF",
+      "image": "/assets/images/wax.png",
+      "updated": "7/14/2025 10:00am"
+    },
+    {
+      "id": 241,
+      "name": "LibStatic",
+      "slug": "libstatic",
+      "url": "https://lib-static.github.io/",
+      "categories": [
+        "Infrastructure",
+        "Website Builder & CMS Tools",
+        "Digital Publishing"
+      ],
+      "description": "Lib-Static is a provocation to rethink how we do digital infrastructure in libraries to recenter our technology choices around sustainable, pragmatic, and minimal approaches.",
+      "image": "/assets/images/libstatic.png",
+      "updated": "7/14/2025 10:01am"
+    },
+    {
+      "id": 242,
+      "name": "DocuScope",
+      "slug": "docuscope",
+      "url": "https://www.cmu.edu/dietrich/english/research-and-publications/docuscope.html",
+      "categories": [
+        "Research Tools",
+        "Text Analysis Tools"
+      ],
+      "description": "Making the invisible visible through natural language processing and interactive visualization",
+      "image": "/assets/images/docuscope.png",
+      "updated": "7/15/2025 9:44am"
+    },
+    {
+      "id": 243,
+      "name": "FairCopy",
+      "slug": "faircopy",
+      "url": "https://faircopyeditor.com/",
+      "categories": [
+        "Research Tools",
+        "Text Analysis Tools"
+      ],
+      "description": "FairCopy is a simple and powerful tool for reading, transcribing, and encoding text.",
+      "image": "/assets/images/faircopy.png",
+      "updated": "7/28/2025 9:24am"
+    },
+    {
+      "id": 244,
+      "name": "Metavus",
+      "slug": "metavus",
+      "url": "https://metavus.net",
+      "categories": [
+        "Website Builder & CMS Tools",
+        "Digital Publishing"
+      ],
+      "description": "Metavus is about collecting, describing, and disseminating resources online, putting the power and control in your hands, to help you build and maintain digital collections that meet your needs.",
+      "image": "/assets/images/metavus.png",
+      "updated": "8/14/2025 10:26am"
+    },
+    {
+      "id": 245,
+      "name": "eScriptorium",
+      "slug": "escriptorium",
+      "url": "https://escriptorium.rich.ru.nl/",
+      "categories": [
+        "Research Tools",
+        "Text Analysis Tools"
+      ],
+      "description": "eScriptorium: A Digital Text Production Pipeline for Print and Handwritten Texts using machine learning techniques.",
+      "image": "/assets/images/escriptorium.png",
+      "updated": "9/10/2025 9:36am"
+    },
+    {
+      "id": 246,
+      "name": "Leo",
+      "slug": "leo",
+      "url": "https://www.tryleo.ai/",
+      "categories": [
+        "AI",
+        "Research Tools"
+      ],
+      "description": "Store, organize, and transcribe your documents with the power of AI",
+      "image": "/assets/images/leo.png",
+      "updated": "9/19/2025 12:54pm"
+    },
+    {
+      "id": 247,
+      "name": "Canopy IIIF",
+      "slug": "canopy-iiif",
+      "url": "https://canopy-iiif.github.io/docs/",
+      "categories": [
+        "Research Tools",
+        "Digital Publishing"
+      ],
+      "description": "An open-source static site generator designed for fast creation, contextualization, and customization of a discovery-focused digital scholarship and collections website using IIIF APIs.",
+      "image": "/assets/images/canopy-iiif.png",
+      "updated": "10/10/2025 2:41pm"
+    },
+    {
+      "id": 248,
+      "name": "AllMaps",
+      "slug": "allmaps",
+      "url": "https://allmaps.org/",
+      "categories": [
+        "Mapping Tools",
+        "Research Tools"
+      ],
+      "description": "Curating, georeferencing and exploring for IIIF maps. Millions of maps are available through IIIF, across libraries, archives and museums worldwide. Allmaps makes it easier and more inspiring to curate, georeference and explore collections of digitized maps.",
+      "image": "/assets/images/allmaps.png",
+      "updated": "10/22/2025 9:47am"
+    },
+    {
+      "id": 249,
+      "name": "Mapwarper",
+      "slug": "mapwarper",
+      "url": "https://mapwarper.net/",
+      "categories": [
+        "Mapping Tools",
+        "Research Tools"
+      ],
+      "description": "It's a free to use, open source map warper / map georectifier, and image georeferencer tool for individuals and small groups.",
+      "image": "/assets/images/mapwarper.png",
+      "updated": "10/22/2025 9:49am"
+    },
+    {
+      "id": 250,
+      "name": "KoboToolBox",
+      "slug": "kobotoolbox",
+      "url": "https://www.kobotoolbox.org/",
+      "categories": [
+        "Research Tools",
+        "Data Sources"
+      ],
+      "description": "Intuitive and adaptable data tools to maximize your impact. A data collection, management, and visualization platform used globally to accelerate positive social change.",
+      "image": "/assets/images/kobotoolbox.png",
+      "updated": "10/22/2025 10:03am"
+    },
+    {
+      "id": 251,
+      "name": "Cinemetrics",
+      "slug": "cinemetrics",
+      "url": "https://cinemetrics.uchicago.edu/how-to-use",
+      "categories": [
+        "Research Tools",
+        "Visualization Tools"
+      ],
+      "description": "Cinemetrics tools not only let one record data to analyze movies as Yuri Tsivian did in his Intolerance study, but also publishes the gathered data on this web site for everyone to access.",
+      "image": "/assets/images/cinemetrics.png",
+      "updated": "10/24/2025 10:41am"
+    },
+    {
+      "id": 252,
+      "name": "ELAN",
+      "slug": "elan",
+      "url": "https://archive.mpi.nl/tla/elan",
+      "categories": [
+        "Research Tools",
+        "Visualization Tools"
+      ],
+      "description": "ELAN is an annotation tool for audio and video recordings.",
+      "image": "/assets/images/elan.png",
+      "updated": "10/24/2025 10:41am"
+    },
+    {
+      "id": 253,
+      "name": "Export Comments",
+      "slug": "export-comments",
+      "url": "https://exportcomments.com/",
+      "categories": [
+        "Web Scraping Tools"
+      ],
+      "description": "Export Social Media Comments",
+      "image": "/assets/images/export-comments.png",
+      "updated": "10/28/2025 3:05pm"
+    },
+    {
+      "id": 254,
+      "name": "LEAF-VRE",
+      "slug": "leaf-vre",
+      "url": "https://www.leaf-vre.org/",
+      "categories": [
+        "Digital Publishing"
+      ],
+      "description": "The Linked Editing Academic Framework - A Virtual Research Environment for the Humanities",
+      "image": "/assets/images/leaf-vre.png",
+      "updated": "12/2/2025 2:17pm"
+    },
+    {
+      "id": 255,
+      "name": "kraken",
+      "slug": "kraken",
+      "url": "https://kraken.re/main/index.html",
+      "categories": [
+        "Research Tools"
+      ],
+      "description": "kraken is a turn-key OCR system optimized for historical and non-Latin script material.",
+      "image": "/assets/images/kraken.png",
+      "updated": "12/2/2025 2:30pm"
+    },
+    {
+      "id": 256,
+      "name": "Open Funding",
+      "slug": "open-funding",
+      "url": "https://github.com/ralphtheninja/open-funding",
+      "categories": [
+        "Funding for Institutions",
+        "Funding for Individuals",
+        "Open Source / Open Access"
+      ],
+      "description": "A guide for researching ways of funding open source projects.",
+      "image": "/assets/images/open-funding.png",
+      "updated": "12/16/2025 11:43am"
+    },
+    {
+      "id": 257,
+      "name": "Open Source Fundings Listed by John Hopkins",
+      "slug": "open-source-fundings-listed-by-john-hopkins",
+      "url": "https://ospo.library.jhu.edu/services/funding-opportunities/",
+      "categories": [
+        "Funding for Individuals",
+        "Funding for Institutions",
+        "Open Source / Open Access"
+      ],
+      "description": "",
+      "image": "/assets/images/open-source-fundings-listed-by-john-hopkins.png",
+      "updated": "12/16/2025 11:44am"
+    }
+  ],
+  "categories": [
+    "3D",
+    "AI",
+    "Consultation Services",
+    "Creative Coding Tools",
+    "Data Sources",
+    "Digital Media Production Tools",
+    "Digital Publishing",
+    "Example Projects",
+    "External Aggregated Resources",
+    "Funding for Individuals",
+    "Funding for Institutions",
+    "Infrastructure",
+    "Learning Resources",
+    "Mapping Tools",
+    "Network Analysis Tools",
+    "Open Source / Open Access",
+    "Research Tools",
+    "Storytelling Tools",
+    "Text Analysis Tools",
+    "VR/AR/MR/XR",
+    "Visualization Tools",
+    "Web Archiving Tools",
+    "Web IDE & Notebooks",
+    "Web Scraping Tools",
+    "Website Builder & CMS Tools"
+  ]
+}
